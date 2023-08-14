@@ -349,6 +349,42 @@ blink
 
 /* Animated effects follow */
 
+strong {
+    font-weight: bold;
+}
+.sin {
+  --sin-term1: var(--angle);
+  --sin-term2: calc((var(--angle) * var(--angle) * var(--angle)) / 6);
+  --sin-term3: calc((var(--angle) * var(--angle) * var(--angle) * var(--angle) * var(--angle)) / 120);
+  --sin-term4: calc((var(--angle) * var(--angle) * var(--angle) * var(--angle) * var(--angle) * var(--angle) * var(--angle)) / 5040);
+  --sin-term5: calc((var(--angle) * var(--angle) * var(--angle) * var(--angle) * var(--angle) * var(--angle) * var(--angle) * var(--angle) * var(--angle)) / 362880);
+  --sin: calc(var(--sin-term1) - var(--sin-term2) + var(--sin-term3) - var(--sin-term4) + var(--sin-term5));
+}
+
+.cos {
+  --cos-term1: 1;
+  --cos-term2: calc((var(--angle) * var(--angle)) / 2);
+  --cos-term3: calc((var(--angle) * var(--angle) * var(--angle) * var(--angle)) / 24);
+  --cos-term4: calc((var(--angle) * var(--angle) * var(--angle) * var(--angle) * var(--angle) * var(--angle)) / 720);
+  --cos-term5: calc((var(--angle) * var(--angle) * var(--angle) * var(--angle) * var(--angle) * var(--angle) * var(--angle) * var(--angle)) / 40320);
+  --cos: calc(var(--cos-term1) - var(--cos-term2) + var(--cos-term3) - var(--cos-term4) + var(--cos-term5));
+}
+
+.tan {
+  --tan-term1: var(--angle);
+  --tan-term2: calc((1/3) * var(--angle) * var(--angle) * var(--angle));
+  --tan-term3: calc((2 / 15) * var(--angle) * var(--angle) * var(--angle) * var(--angle) * var(--angle));
+  --tan-term4: calc((17/315) * var(--angle) * var(--angle) * var(--angle) * var(--angle) * var(--angle) * var(--angle) * var(--angle));
+  --tan: calc(var(--tan-term1) + var(--tan-term2) + var(--tan-term3) + var(--tan-term4));
+}
+
+.badges img {
+  height: 31px;
+}
+.badges2 img {
+  height: 25px;
+}
+	
 .fade-in-out
 {
 	text-decoration: none;
@@ -393,11 +429,19 @@ blink
   </style>
   <title>My classier website</title>
   </head>
-<body>
+<body style="cursor: url("151.svg"), auto;">
 <div id="text">
+<header>
 <h1 id="greeting">Hiya folx! I'm stgiga!</h1>
 	<h2 id="message">🚧 This site is under construction. 🖺⛏👤 🚧</h2>
-	<br><p>This site uses a prototype (until mid-September 2023) of my special build of GNU Unifont.<br>This site takes advantage of it well. Some symbols on this site may not display properly when pasted into environments <i>not</i> using it.</p><hr>
+	<br><p>This site uses a prototype (until mid-September 2023) of my special build of GNU Unifont, called UnifontEX.<br>This site takes advantage of it well. Some symbols on this site may not display properly when pasted into environments <i>not</i> using it.</p>
+<div id="scroll-container">
+        <div id="scroll-text">
+            WELCOME TO MY WEBSITE. WELCOME TO MY WEBSITE. WELCOME TO MY WEBSITE. WELCOME TO MY WEBSITE.
+        </div>
+    </div>
+</header><main><hr>
+<div id="headerinfo">
 <h3>Here is a bit about me:</h3> <br>
 <h4>I'm 21 and nonbinary (🜬) (yes, these symbols I'm using ARE in Unicode) and use They/Them pronouns (as well as neopronouns, including Unicode ones.)<br>I am also intersex, a salmacian/aphrodisian, polyam, and pan.</h4><br><p><i>What a way to not conform to societal expectations.</i></p><br>
 	<h4>I am also neurodiverse (I <u>formally</u> have Autism, ADHD, anxiety, OCD, PTSD, NOS-PD, and schizophrenia.)</h4><br>
@@ -411,8 +455,99 @@ blink
 <h2>I guess I <i>sort of</i> do <u>EVERYTHING</u> with tech.</h2><br><h4><i>This page is hand-coded (<b>mostly</b>.)</i></h4>
 <h1><i>Why?</i></h1><br>
 <h3>Because I get bored easily. Doing tech projects is a GREAT way to get rid of boredom!</h3><hr>
+</div>
 <h1>Links: </h1><br>
-<h2>Coming soon!</h2>
+<h2><a href="http://stgiga.carrd.co" target="_blank">My Carrd</a></h2>
+</main>
+<footer>
+	 <div style="margin-top: 3.69rem" class="badges">
+            <!--<a href="https://stgiga.weebly.com" target="_blank" title="My badge for my website :)">
+                <img src="/badges/sgwebsite.png" alt="My Weebly" />
+            </a>-->
+            <!--<a href="https://www.gnu.org/software/emacs/" target="_blank" title="emacs is FOSS give it a go :)">
+                <img src="/badges/emacs.png" alt="made with gnu emacs" />
+            </a>-->
+          <!--  <a href="https://goop.house" target="_blank" title="goop house next up!!!">
+                <img src="/badges/goop.gif" alt="goop house" />
+            </a>-->
+            <a href="https://minecraft.net" target="_blank" title="minecraft was a cool game imo">
+                <img src="/badges/minecraft.gif" alt="minecraft" />
+            </a>
+           <img src="/badges/antinft.gif" alt="this is an anti-nft site" title="you suck if you think burning the environment is cool" />
+            <!--<img src="/badges/enby.gif" alt="piracy now!" title="enby is fun and cool" / 
+            <img src="/badges/ancom.gif" alt="ancom now!" title="ancom is fun and cool" /> -->
+            <img src="/badges/noms.gif" alt="back off microsoft" title="Don't let Microsoft take control of open source!" />
+            <!-- <img src="/badges/sucks.gif" alt="this website sucks" title="yeah sorry i haven't put in enough effort so far to make it work correctly" /> -->
+            <a href="https://anybrowser.org/campaign/" target="_blank" title="Use Firefox though.">
+                <img src="/badges/anybrowser.gif" alt="best viewed with any browser" />
+            </a>
+            <img src="/badges/socks.png" alt="This site made with programming socks." title="Comfy socks for comfy programming." />
+            <!--<img src="/badges/pokemorph.gif" alt="no time spent with a Pokemorph is wasted" title="so true" />-->
+            <img src="/badges/void.gif" alt="powered by the void" title="I use my gender to power this website." />
+           <!-- <img src="/badges/100gecs.png" alt="100 gecs" title="she said i love you on the plane i said i love you too" data-comment="yea i know the lyrics aren't that but im intersex" /> -->
+            <img src="/badges/pride.png" alt=" pride" title="im LGBTQ+ :)" />
+            <img src="/badges/nonbinary.png" alt="nonbinary pride" title="im a nonbinary girl and i think that's pretty cool" />
+            <img src="/badges/LocalNetwork.gif" alt="i'm going back to my local network" title="the internet was a mistake (except for the cool music and cat gifs)" />
+            <a href="https://yesterweb.org/no-to-web3/">
+                <img src="/badges/saynotoweb3.gif" alt="keep the web free, say no to web3" title="get rid of web 3" />
+            </a>
+            <a href="https://encounters-ltd.neocities.org/">
+                <img src="/badges/transartists.png" alt="i support trans artists" title="made by @EncountersLtd on twitter" />
+            </a>
+           <!-- <a target="_blank" href="http://sleepy.zone">
+                <img src="/badges/sleepy88.png" alt="sleepy.zone fm radio" title="sleepy.zone is just a 303 redirect to jermas twitch" />
+            </a> 
+            <a target="_blank" href="https://oat.zone">
+                <img src="/badges/oatzone.gif" alt="lambda oat dot zone" />
+            </a> 
+            <img src="/badges/slimesnow.png" alt="slimes now" />
+            <img src="/badges/slugcat.png" alt="slug ca" />
+            <a href="https://maia.crimew.gay/" target="_blank" rel="noopener">
+                <img src="/badges/maia.crimew.gay.png" alt="maia.crimew.gay" title="maia dot crimew dot gay">
+            </a> 
+            <img src="/badges/nacl.png" alt="made with sodium chloride" />
+            <a target="_blank" href="https://tebibyte.media/">
+                <img src="/badges/TiB.gif" alt="tebibyte media" />
+            </a>
+            <a target="_blank" href="https://marley.cosmox.space/">
+                <img src="/badges/marleys-website.webp" alt="marley's website" />
+            </a>
+            <a target="_blank" href="https://sinewave.cyou/">
+                <img src="/badges/sinewave.gif" alt="Sigma-One's website" />
+            </a>
+            <a target="_blank" href="https://colorbash.art/">
+                <img src="/badges/colorbash.gif" alt="colorbash" />
+            </a>
+            <a target="_blank" href="https://easrng.net/">
+                <img src="/badges/easrng.gif" alt="'easrng', as a cool neon sign that's written in" /> 
+            </a>
+            <a target="_blank" href="https://mouse.lgbt/">
+                <img src="https://mouse.lgbt/assets/images/badge.png" alt="twinkle_mouse's stie" />
+            </a>
+            <a target="_blank" href="https://cronut.cafe/~sfr/">
+                <img src="/badges/ralsei.gif" alt="sol's site" /> -->
+            </a>
+            <a target="_blank" href="https://a.transf.email">
+                <img src="/badges/mae.png" alt="experience a.transf.email" />
+            </a>
+        </div>
+        <div class="badges2">
+            <img src="/badges/mp3love.gif" alt="i <3 mp3" title="music slaps" />
+            <img src="/badges/rush2112.gif" alt="rush" title="2112 is a pretty good album" />
+            <img src="/badges/floyd.gif" alt="pink floyd" title="As I reach for a peach, slide a rind down behind / The sofa in San Tropez~" />
+            <a href="https://www.last.fm/user/annieversary" targer="_blank" title="check out the music im listening to!">
+                <img src="/badges/lastfm.gif" alt="last fm" />
+            </a>
+            <img src="/badges/mozfirefox.png" alt="mozilla firefox" title="use firefox!!!" />
+            <img src="/badges/noie.png" alt="no internet explorer" title="just no lmao" />
+            <img src="/badges/imqueer.png" alt="im fucking queer" title="what else is there to say :)" />
+            <a href="https://goop.house" target="_blank" title="goop house next up">
+                <img src="/badges/goop.png" alt="goop house" />
+            </a>
+            <img src="/badges/catala.png" alt="català" title="en aquesta pàgina es parla català" />
+            <img src="/badges/hungry.gif" alt="hungry" title="yeah im cringe i use a macbook" />
+        </div>
+</footer>
 	</div>
 
   </body>
