@@ -437,7 +437,7 @@ strong {
 
         <div id="container"><div id="topBar"><center><h1>Hiya folx! I'm stgiga!</h1>
 	<h2>🚧 This site is under construction. 🖺⛏👤 🚧</h2><p>This site uses my special build of GNU Unifont, called UnifontEX.</p>
-		<p>This site takes advantage of it well. Some symbols on this site may not display properly when pasted into environments <i>not</i> using it.</p></center>
+		<p id="invisfix">This site takes advantage of it well. Some symbols on this site may not display properly when pasted into environments <i>not</i> using it.</p></center>
 		  <marquee>WELCOME TO MY WEBSITE. WELCOME TO MY WEBSITE. WELCOME TO MY WEBSITE. WELCOME TO MY WEBSITE.</marquee>
 	</div>
             <div id="headerArea">
@@ -747,9 +747,13 @@ strong {
                 font-size: smaller;
                 background-color: #13092D;
             }
-	 #topBar h1,h2,h3,h4,p,marquee {
-		background-color: #DF337A7D;
+	 #topBar h1, h2, h3, h4, p, li {
+		background-color: #DF337A1D;
 		}
+
+		#invisfix, #topBar marquee {
+			background-color: #9911993D;
+		} 
 
 
             /* BELOW THIS POINT IS MEDIA QUERY */
