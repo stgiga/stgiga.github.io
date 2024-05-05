@@ -1,0 +1,2826 @@
+Combo Code:
+A classification system for hard-to-classify people:
+
+Dragon 26 Section:
+
+Header:
+"DC2."
+
+Species:
+
+Variable: (Float32)
+Stable in A Form (Float32)
+Form Stable In (Float32)
+
+Use Free Text In Bio For Categories: Bool
+
+
+In Another Form: Float32
+Another Form Classification: Bool (In Shape Of or In The Physical Form Of)
+Another Form Free Text in Bio: Bool
+
+Categories: 1 float32 per category and item:
+
+ Dragons:
+
+Dragon (General)
+Dragon (Unknown)
+Dragon (Other)
+Dragon - Amphitere
+Dragon - Dimar
+Dragon - Dracolich
+Dragon - Draconid
+Dragon - Dragonette
+Dragon - Eastern
+Dragon - Faerie
+Dragon - Hydra
+Dragon - Pernese
+Dragon - Pseudodragon
+Dragon - Serpent (General)
+Dragon - Serpent - Fire
+Dragon - Serpent - Sea
+Dragon - Tarrasques
+Dragon - Turtle
+Dragon - Western
+Dragon - Wyrm
+Dragon - Wyvern
+
+Humanoids:
+Human (General)
+Human (Unknown)
+Human - Ape
+Human - Dwarf
+Human - Elf
+Human - Elf - Wood
+Human - Fairy
+Human - Giant
+Human - Gnome
+Human - Hobbit
+Human - Kender
+Human - Nymph
+Human - Troll
+Human - Wolfperson
+
+Amphibians:
+
+Amphibian (General)
+Amphibian (Unknown)
+Amphibian (Other)
+Amphibian - Frog
+Amphibian - Newt
+Amphibian - Salamander
+Amphibian - Toad
+
+Anthro
+
+Birds:
+
+Bird (General)
+Bird (Unknown)
+Bird (Other)
+Bird  (Non-predatory)
+Bird - Albatross
+Bird - Crow
+Bird - Duck
+Bird - Eagle
+Bird - Falcon
+Bird - Hawk
+Bird - Kiwi
+Bird - Owl
+Bird  -  Penguin
+Bird - Phoenix
+Bird - Raven
+Bird - Seagull
+Bird - Sparrow
+Bird - Wren
+
+Carnivore (General)
+
+Crustaceans:
+
+Crustacean (General)
+Crustacean (Unknown)
+Crustacean - Crab
+Crustacean - Lobster
+Crustacean - Shrimp
+
+Dinosaurs:
+
+Dinosaur (General)
+Dinosaur (Unknown)
+Dinosaur - Allosaur
+Dinosaur - Apatosaur
+Dinosaur - Carnosaur
+Dinosaur - Coelurosaur
+Dinosaur - Stegosaur
+Dinosaur - Triceratops
+Dinosaur - Tyrannosaur
+Dinosaur - Velociraptor
+
+Edentata:
+Anteater
+Sloth
+General
+Other
+Unknown
+
+Extraterrestrials:
+
+Extraterrestrial (General)
+Extraterrestrial (Unknown)
+Extraterrestrial - Dalek
+Extraterrestrial - Tribble
+
+Fish:
+Fish (General)
+Fish (Unknown)
+Fish - Freshwater
+Fish - Goldfish
+Fish - Sea horse
+Fish - Shark
+Fish - Trout
+
+Herbivore (General)
+
+Insects:
+Insect (General)
+Insect (Unknown)
+Insect - Ant
+Insect - Butterfly
+Insect - Fly
+Insect - Locust
+Insect - Moth
+
+Insectivore:
+
+Insectivore (General)
+Insectivore (Unknown)
+Insectivore (Other)
+Hedgehog
+Mole
+
+Legends: 
+
+Legend (General)
+Legend (Unknown)
+Legend - Manticore
+Legend - Merfolk
+Legend - Gargoyle
+Legend - Gremlin
+Legend - Salamander
+Legend - Sprite
+Legend - Unicorn
+
+Mammals:
+Mammal (General)
+Mammal (Unknown)
+Mammal (Other)
+Mammal - Aardvark
+Mammal - Bat
+Mammal - Bear
+Mammal - Bear (General)
+Mammal - Bunny
+Mammal - Bunny (General)
+Mammal - Canine (General)
+Mammal  -  Canine (Wild)
+Mammal - Canine - Arctic Fox
+Mammal - Canine - Coyote
+Mammal - Canine - Dingo
+Mammal - Canine - Dog
+Mammal - Canine - Domestic Mutt
+Mammal - Canine - Fox
+Mammal - Canine - Jackal 
+Mammal - Canine - Maned Wolf
+Mammal - Canine - Wolf
+Mammal  -  Cervine (General)
+Mammal  -  Cervine - Deer
+Mammal - Cetacean - Whale
+Mammal - Cetacean - Dolphin
+Mammal - Cetacean - Killer Whale
+Mammal - Cetacean - Porpoise
+Mammal - Civet (General)
+Mammal - Civet
+Mammal - Donkey
+Mammal - Elephant
+Mammal  -  Equine (General)
+Mammal - Feline (General)
+Mammal  -  Feline - Felinoid
+Mammal - Feline - Black panther
+Mammal - Feline - Bobcat
+Mammal - Feline - Cheetah
+Mammal - Feline - Clouded Leopard
+Mammal - Feline - Cougar
+Mammal - Feline - Domestic Cat
+Mammal - Feline - Jaguar
+Mammal - Feline - Leopard
+Mammal - Feline - Snow Leopard
+Mammal - Feline - Lion
+Mammal - Feline - Lynx
+Mammal - Feline - Mountain Lion
+Mammal - Feline - Ocelot
+Mammal - Feline - Panther
+Mammal - Feline - Puma
+Mammal - Feline - Serval
+Mammal - Feline - Tiger
+Mammal - Feline - Wild cat
+Mammal - Flying Fox/Fruit Bat
+Mammal - Hare
+Mammal - Hippo
+Mammal - Horse
+Mammal - Hyena (General)
+Mammal - Hyena
+Mammal - Jackrabbit
+Mammal - Monkey (General)
+Mammal - Monkey - Ape
+Mammal - Monkey - Gibbon
+Mammal - Monkey - Gorilla
+Mammal  -  Moose
+Mammal - Primate (General)
+Mammal - Primate - Lemur
+Mammal - Mustelid (General)
+Mammal - Mustelid - Badger
+Mammal - Mustelid - Ermine/stoat
+Mammal - Mustelid - Marten
+Mammal - Mustelid - Otter
+Mammal - Mustelid - Ratel/honey badger
+Mammal - Mustelid - Sable
+Mammal - Mustelid - Skunk
+Mammal - Mustelid - Weasel
+Mammal - Mustelid - Wolverine
+Mammal - Polecat (General)
+Mammal - Polecat - Ferret
+Mammal - Polecat - Mink
+Mammal - Red Panda
+Mammal - Rodent (General)
+Mammal - Rodent - Beaver
+Mammal - Rodent - Gerbil
+Mammal - Rodent - Grey Squirrel
+Mammal - Rodent - Hamster
+Mammal - Rodent - Mouse
+Mammal - Rodent - Muskrat
+Mammal - Rodent - Porcupine
+Mammal - Rodent - Rat
+Mammal - Rodent - Red Squirrel
+Mammal - Rodent - Squirrel
+Mammal - Ursine - Black Bear
+Mammal - Ursine - Brown Bear
+Mammal - Ursine - Panda
+Mammal - Ursine - Polar Bear
+Mammal - Ursine - Non-anthro
+Mammal - Vampire Bat
+Mammal - Zebra
+
+Marsupials:
+
+Marsupial (General)
+Marsupial (Unknown)
+Marsupial (Other)
+Marsupial - Kangaroo
+Marsupial - Koala
+Marsupial - Oppossum 
+Marsupial - Possum
+Marsupial - Tasmanian devil
+Marsupial - Wallaby
+Marsupial - Wombat
+
+Mollusks:
+Mollusk (General)
+Mollusk (Unknown)
+Mollusk - Cuttlefish
+Mollusk - Limpet
+Mollusk - Octopus
+Mollusk - Oyster
+Mollusk - Snail
+
+Mongoose Family:
+General
+Unknown
+Other
+Meercat
+Mongoose
+
+Monotremata Family:
+General
+Unknown
+Other
+Platypus
+
+Procione:
+General
+Other
+Unknown
+Racoon
+
+Mythical(?) Creatures:
+
+Mythical (General)
+Mythical (Unknown)
+Mythical - Common (Horse/Human) Centaur
+Mythical - Centaur
+Mythical - Cyclops
+Mythical - Elemental
+Mythical - Goblin
+Mythical - Golem
+Mythical - Gryphon/Griffin
+Mythical - Hellhound
+Mythical - Hippogriff
+Mythical - Minotaur
+Mythical - Orc
+Mythical - Pegasus
+Mythical - Roc
+Mythical - Satyr
+Mythical - Sphinx
+Mythical - Zebra Centaur
+
+Plants:
+
+Plant (General)
+Plant (Unknown)
+Plant - Cactus
+Plant - Fungus
+Plant - Tree (General)
+Plant - Tree - Ash
+Plant - Tree - Elm
+Plant - Tree - Oak
+
+Reptiles:
+
+Reptile (General)
+Reptile (Unknown)
+Reptile (Other)
+Reptile - Alligator/Crocodile
+Reptile - Chameleon
+Reptile - Gecko
+Reptile - Komodo Dragon
+Reptile - Lizard
+Reptile - Skink
+Reptile - Skink - Fire
+Reptile - Snake
+Reptile - Tortoise
+Reptile - Turtle
+
+Robot
+Android
+
+Scalie (General)
+Scalie (Unknown)
+Scalie (Other)
+
+Seal Family:
+Sea lion
+Seal
+Walrus
+General
+Other
+Unknown
+
+Spirits:
+
+Spirit (General)
+Spirit (Unknown)
+Spirit - Angel
+Spirit - Devil/Demon
+Spirit - Ghost
+Spirit - Imp
+Spirit - Poltergheist
+Spirit - Spectre
+Spirit - Will-o'-the-wisp
+
+Two-hoofed Hoofed Animal:
+Antelope
+Buffalo
+Cattle
+Deer
+Gazelle
+Giraffe
+Gnu
+Goat
+Llama
+Moose
+Pig
+Reindeer
+Sheep
+Warthog
+General
+Unknown
+Other
+
+Undead:
+Undead (General)
+Undead (Unknown)
+Undead - Ghoul
+Undead - Vampire
+Undead - Zombie
+
+Vegetable:
+Vegetable (General)
+Vegetable (Unknown)
+
+Unknown
+
+Generic
+
+I don't know what I am
+
+Polymorph
+
+Shapeshifter
+
+---
+
+Elemental Type goes in Bio as whatever you want
+
+Modifiers: Float32 each
+
+Cyborg
+Cartoony
+Were
+Psychic
+Winged
+Taur-bodied
+
+Appearance (Level of Human Traits):
+Float64
+
+Level of Attachment to Fursona (Float32 each):
+
+A general alter-ego
+A costume I wear
+Someone to draw pictures of
+An imaginary friend
+A Mu* character
+A role-playing character
+A character that wards off evil
+Someone to write stories about
+
+Convention Attendance:
+
+Float32s each for:
+
+"Been to lots of cons, organised at least one"
+"I'm a regular con-goer, and I've occasionally lent a paw"
+"I've been to several, and plan to go to many more"
+"I've been to one"
+"Never been to one, but may do so in the future"
+Not interested
+"I wouldn't go near one of those places if you paid me"
+"Haven't been to a furry con, but I have been to an SF (sci-fi) con"
+"Haven't been to a furry con, but I've helped organize an SF (sci-fi) con"
+
+Desired Convention Attendance:
+
+Float32s each for:
+
+"Been to lots of cons, organised at least one"
+"I'm a regular con-goer, and I've occasionally lent a paw"
+"I've been to several, and plan to go to many more"
+"I've been to one"
+"Never been to one, but may do so in the future"
+Not interested
+"I wouldn't go near one of those places if you paid me"
+"Haven't been to a furry con, but I have been to an SF (sci-fi) con"
+"Haven't been to a furry con, but I've helped organize an SF (sci-fi) con"
+
+
+Fursuit Status:
+
+Float32s each for:
+
+"I've made plans to be buried in a fursuit"
+"I'll wear a fursuit at any opportunity (where costumes are not expected)"
+"I'll wear a fursuit at cons/sporting events (where costumes are uncommon)"
+"I'll wear a fursuit for Halloween/masquerades (where costumes are expected)"
+"I might wear a fursuit"
+"I'd wear a fursuit if I had to"
+"You must be kidding, I'd die first"
+"Have made fursuit"
+
+Desired Fursuit Status:
+
+Float32s each for:
+
+"I've made plans to be buried in a fursuit"
+"I'll wear a fursuit at any opportunity (where costumes are not expected)"
+"I'll wear a fursuit at cons/sporting events (where costumes are uncommon)"
+"I'll wear a fursuit for Halloween/masquerades (where costumes are expected)"
+"I might wear a fursuit"
+"I'd wear a fursuit if I had to"
+"You must be kidding, I'd die first"
+"Have made fursuit"
+
+Artistic Side Level:
+
+Float32s each for:
+
+"Art is my life"
+"My art appears regularly in zines and elsewhere, and people ask me to contribute to their sketchbooks"
+"I have pictures in reasonably well-known zines and/or Web sites"
+"I draw regularly, and someone once said something that could possibly be construed as a compliment"
+"I've shown one or two of my pictures to others, and they didn't actually throw up"
+"Tried a few sketches in the privacy of my own home"
+
+Desired Artistic Side Level:
+
+Float32s each for:
+
+"Art is my life"
+"My art appears regularly in zines and elsewhere, and people ask me to contribute to their sketchbooks"
+"I have pictures in reasonably well-known zines and/or Web sites"
+"I draw regularly, and someone once said something that could possibly be construed as a compliment"
+"I've shown one or two of my pictures to others, and they didn't actually throw up"
+"Tried a few sketches in the privacy of my own home"
+
+Mucking and Mudding:
+
+Float32s each for:
+
+"I'm a Wiz, tremble before my might"
+"Someday I may get around to trying Real Life, but it's not high on my agenda"
+"I've got characters on several MU*s, and frequently get frustrated when commands don't work in RL (real life)"
+"I'm a regular on at least one furry MU*"
+"Tried them once or twice, may do it again sometime"
+"Never been able to dredge up enough interest (or time) to try it"
+"Those things are for weenies"
+"Y'all are pathetic, get a life."
+
+Desired Mucking and Mudding:
+
+Float32s each for:
+
+"I'm a Wiz, tremble before my might"
+"Someday I may get around to trying Real Life, but it's not high on my agenda"
+"I've got characters on several MU*s, and frequently get frustrated when commands don't work in RL (real life)"
+"I'm a regular on at least one furry MU*"
+"Tried them once or twice, may do it again sometime"
+"Never been able to dredge up enough interest (or time) to try it"
+"Those things are for weenies"
+"Y'all are pathetic, get a life."
+
+Plushie Opinions:
+
+Float32s each for:
+"Where'd my plushie go? Oh, it's buried under my stuffies."
+"I collect every one I find of a certain species (or two, or three...)"
+"I've got a collection of several favorites"
+"I have been known to cuddle a few"
+"I like them, they sit on my shelves collecting dust"
+"No thanks, they'll sit on my shelves collecting dust"
+"Kid stuff, I'd sooner hug a pincushion"
+
+
+Desired Plushie Opinions:
+
+Float32s each for:
+"Where'd my plushie go? Oh, it's buried under my stuffies."
+"I collect every one I find of a certain species (or two, or three...)"
+"I've got a collection of several favorites"
+"I have been known to cuddle a few"
+"I like them, they sit on my shelves collecting dust"
+"No thanks, they'll sit on my shelves collecting dust"
+"Kid stuff, I'd sooner hug a pincushion"
+
+Plushie Opinions Regarding Bedtime:
+
+Float32s each for:
+"I always sleep with a plushie"
+"I sleep with a plushie often"
+"I sleep with a plushie sometimes"
+"I don't sleep with a plushie"
+"I would never consider taking a plushie to bed with me"
+
+Desired Plushie Opinions Regarding Bedtime:
+
+Float32s each for:
+"I always sleep with a plushie"
+"I sleep with a plushie often"
+"I sleep with a plushie sometimes"
+"I don't sleep with a plushie"
+"I would never consider taking a plushie to bed with me"
+
+Plushie Opinions on Beanie Babies:
+
+Float32s each for:
+"I adore Beanie Babies, and I'm an enthusiastic collector"
+"I love Beanie Babies, and I've collected several"
+"I like Beanie Babies, and may own a few"
+"I dislike Beanie Babies"
+"I reject Beanie Babies and the whole commercial craze"
+
+Desired Plushie Opinions on Beanie Babies:
+
+Float32s each for:
+"I adore Beanie Babies, and I'm an enthusiastic collector"
+"I love Beanie Babies, and I've collected several"
+"I like Beanie Babies, and may own a few"
+"I dislike Beanie Babies"
+"I reject Beanie Babies and the whole commercial craze"
+
+Plushie Opinions on Cuddling:
+
+Float32s each for:
+"I'm a cuddling addict; I cuddle my plushies several times a day"
+"I cuddle my plushies often, usually every day"
+"I cuddle my plushies sometimes"
+"I'm not much into cuddling"
+"I don't cuddle; my plushies are strictly for looking at"
+
+Desired Plushie Opinions on Cuddling:
+
+Float32s each for:
+"I'm a cuddling addict; I cuddle my plushies several times a day"
+"I cuddle my plushies often, usually every day"
+"I cuddle my plushies sometimes"
+"I'm not much into cuddling"
+"I don't cuddle; my plushies are strictly for looking at"
+
+Plushie Opinions on Emotions:
+
+Float32s each for:
+"I feel true love for my plushies"
+"I feel some degree of love for my plushies"
+"I feel some degree of affection for my plushies"
+"I have little emotional feeling for my plushies"
+"I have no emotional feeling for plushies"
+"I have intimate feelings for plushies"
+
+Desired Plushie Opinions on Emotions:
+
+Float32s each for:
+"I feel true love for my plushies"
+"I feel some degree of love for my plushies"
+"I feel some degree of affection for my plushies"
+"I have little emotional feeling for my plushies"
+"I have no emotional feeling for plushies"
+"I have intimate feelings for plushies"
+
+Plushie Opinions on "The Furry Connection" (the overlap between the furry fandom and plush circles):
+
+Float32s each for:
+"I love anthropomorphic animals, and I participate in furry fandom"
+"I love anthropomorphic animals"
+"I like anthropomorphic animals"
+"I don't like anthropomorphic animals"
+"Anthropomorphic animals are irrelevant to me"
+
+Desired Plushie Opinions on "The Furry Connection" (the overlap between the furry fandom and plush circles):
+
+Float32s each for:
+"I love anthropomorphic animals, and I participate in furry fandom"
+"I love anthropomorphic animals"
+"I like anthropomorphic animals"
+"I don't like anthropomorphic animals"
+"Anthropomorphic animals are irrelevant to me"
+
+Plushie Opinions on Imagination:
+
+Float32s each for:
+"I have rich fantasies involving my plushies; they live in my mind"
+"I treat my plushies like individual personages with feelings"
+"My plushies are not just inanimate objects; they represent more to me"
+"Plushies are inanimate objects; I imagine no more, no less"
+"I've never had any fantasies or imaginings concerning my plushies"
+
+Desired Plushie Opinions on Imagination:
+
+Float32s each for:
+"I have rich fantasies involving my plushies; they live in my mind"
+"I treat my plushies like individual personages with feelings"
+"My plushies are not just inanimate objects; they represent more to me"
+"Plushies are inanimate objects; I imagine no more, no less"
+"I've never had any fantasies or imaginings concerning my plushies"
+
+Opinions on Making/Modifying Plushies:
+
+Float32s each for:
+"I make/modify plushies as part of my livelihood"
+"I've made/modified a lot of plushies"
+"I can make/modify a plushie myself"
+"I've never made/modified plushies"
+"I'd like to make/modify plushies someday"
+"Forget it, I can't even sew"
+
+Desired Opinions on Making/Modifying Plushies:
+
+Float32s each for:
+"I make/modify plushies as part of my livelihood"
+"I've made/modified a lot of plushies"
+"I can make/modify a plushie myself"
+"I've never made/modified plushies"
+"I'd like to make/modify plushies someday"
+"Forget it, I can't even sew"
+
+Plushie Opinions on the Mattel Meeko:
+
+Float32s each for:
+"I couldn't imagine life without my Mattel Meeko"
+"I own a Mattel Meeko and he's a favorite cuddle partner"
+"I own a Mattel Meeko"
+"I don't own a Mattel Meeko"
+"I'd like to add a Mattel Meeko to my collection someday"
+"I have no desire to own a Mattel Meeko"
+
+Desired Plushie Opinions on the Mattel Meeko:
+
+Float32s each for:
+"I couldn't imagine life without my Mattel Meeko"
+"I own a Mattel Meeko and he's a favorite cuddle partner"
+"I own a Mattel Meeko"
+"I don't own a Mattel Meeko"
+"I'd like to add a Mattel Meeko to my collection someday"
+"I have no desire to own a Mattel Meeko"
+
+
+Number of Plushies: Float32
+
+Desired Number of Plushies: Float64
+
+Opinions on going out in public with regards to plushies:
+
+Float32s each for:
+"I take a plush pal with me almost everywhere I go"
+"I enjoy carrying plush in public on occasion"
+"I've carried a plushie in public, but only a few times"
+"I wouldn't feel comfortable carrying a plushie in public"
+"I haven't carried a plushie in public, but I may someday"
+"Under no circumstances would I carry a plushie in public"
+
+
+Desired Opinions on going out in public with regards to plushies:
+
+Float32s each for:
+"I take a plush pal with me almost everywhere I go"
+"I enjoy carrying plush in public on occasion"
+"I've carried a plushie in public, but only a few times"
+"I wouldn't feel comfortable carrying a plushie in public"
+"I haven't carried a plushie in public, but I may someday"
+"Under no circumstances would I carry a plushie in public"
+
+
+Opinions on Plushie Intimacy:
+
+Float32s each for:
+"Plush eros is my primary intimacy preference"
+"Intimacy with my plushies is an important part of my intercoital life"
+"I have been intercoitally intimate with my plushies, but not a lot"
+"I have no desire to have plush intercoitus, but I'm not against it"
+"The idea of having intercourse with plushies offends me"
+"I haven't been intimate with my plushies, but I may someday"
+"My relationship with my plushies will always be purely platonic"
+
+Desired Opinions on Plushie Intimacy:
+
+Float32s each for:
+"Plush eros is my primary intimacy preference"
+"Intimacy with my plushies is an important part of my intercoital life"
+"I have been intercoitally intimate with my plushies, but not a lot"
+"I have no desire to have plush intercoitus, but I'm not against it"
+"The idea of having intercourse with plushies offends me"
+"I haven't been intimate with my plushies, but I may someday"
+"My relationship with my plushies will always be purely platonic"
+
+
+(Plushie) Opinions on Fursuit Intimacy:
+
+Float32s each for:
+"I've had fursuit intimacy several times and I really enjoy it"
+"I've had fursuit intimacy at least once"
+"I think fursuits can be sexy"
+"I don't think fursuits are sexy"
+"The idea of having fursuit coitus offends me"
+"I haven't had fursuit intercourse, but the idea appeals to me"
+"I have no coital interest in fursuits at all"
+"What I do after dark is nobody's business"
+"What do you mean there are other things to do?"
+"Ready, willing, and able"
+"Have never done it, but wouldn't rule it out"
+Celibate
+"You people are sick"
+
+Desired (Plushie) Opinions on Fursuit Intimacy:
+
+Float32s each for:
+"I've had fursuit intimacy several times and I really enjoy it"
+"I've had fursuit intimacy at least once"
+"I think fursuits can be sexy"
+"I don't think fursuits are sexy"
+"The idea of having fursuit coitus offends me"
+"I haven't had fursuit intercourse, but the idea appeals to me"
+"I have no coital interest in fursuits at all"
+"What I do after dark is nobody's business"
+"What do you mean there are other things to do?"
+"Ready, willing, and able"
+"Have never done it, but wouldn't rule it out"
+Celibate
+"You people are sick"
+
+
+Status of Real-Life Intimacy:
+
+Float32s each for:
+" I vary widely for this category."
+"I get paid to be intimate."
+"I'd like to get paid to be intimate." 
+"There's more to life? Where is it, and what's your preference?"
+"I was once referred to as easy, but I have no idea where that might have come from"
+"I've done it"
+"I've done it ... oh, you mean with someone else?"
+"I choose not to"
+"Nobody else is interested"
+"My religious beliefs involve celibacy"
+"I'm married, so we can be intimate whenever we want, (well, that's the theory anyway)"
+"I have a few little rug rats to prove I've been there (but with kids around, who has time?)" 
+"I have had no experiences"
+"I have had no experiences and I am willing to learn"
+
+Desired Status of Real-Life Intimacy:
+
+Float32s each for:
+" I vary widely for this category."
+"I get paid to be intimate."
+"I'd like to get paid to be intimate." 
+"There's more to life? Where is it, and what's your preference?"
+"I was once referred to as easy, but I have no idea where that might have come from"
+"I've done it"
+"I've done it ... oh, you mean with someone else?"
+"I choose not to"
+"Nobody else is interested"
+"My religious beliefs involve celibacy"
+"I'm married, so we can be intimate whenever we want, (well, that's the theory anyway)"
+"I have a few little rug rats to prove I've been there (but with kids around, who has time?)" 
+"I have had no experiences"
+"I have had no experiences and I am willing to learn"
+
+
+Favorite Types of Plushies:
+
+Float32s each for:
+"Anthropomorphic - I like plushies that are conformed like teddy bears"
+"Tied-up - I like plushies in dungeon RP gear"
+"Color - I have a strong preference for certain colors of plush"
+Plush Color in 32-bit RGBA
+"Dressed - I like plushies that wear clothing or other adornments"
+"Firm - I prefer plushies that are stuffed firmly"
+"Spooged - I like plushies that show signs of intimate use"
+"SPH - I enjoy plushies that have a strategically-placed hole"
+"Infantilized - I like plushies that are dressed like babies"
+"Jointed - I like plushies whose limbs can be moved and posed"
+"Cuddled - I like plushies that have a 'well-loved' look"
+"Macro - I like really big plushies"
+"Micro - I like really small plushies"
+"Scented - I like plushies that have a particular smell"
+"Puppets - I like plush puppets"
+"Realistic - I like plushies that look like the real animal"
+"Soft - I prefer plushies that are understuffed or floppy"
+"Talented - I look for plushies that are boinkable in some way"
+"Unadorned - I like my plushies unclothed and without adornments"
+"Whimsical - I like plushies that are fanciful forms of the real animal"
+"Damaged - I like plushies that have been mistreated in some way"
+"Characters/toons - I like plushies of cartoon characters"
+"SPA - I enjoy plushies that have a strategically-placed appendage"
+"I like just about all types of plushies"
+
+Desired Favorite Types of Plushies:
+
+Float32s each for:
+"Anthropomorphic - I like plushies that are conformed like teddy bears"
+"Tied-up - I like plushies in dungeon RP gear"
+"Color - I have a strong preference for certain colors of plush"
+Plush Color in 32-bit RGBA
+"Dressed - I like plushies that wear clothing or other adornments"
+"Firm - I prefer plushies that are stuffed firmly"
+"Spooged - I like plushies that show signs of intimate use"
+"SPH - I enjoy plushies that have a strategically-placed hole"
+"Infantilized - I like plushies that are dressed like babies"
+"Jointed - I like plushies whose limbs can be moved and posed"
+"Cuddled - I like plushies that have a 'well-loved' look"
+"Macro - I like really big plushies"
+"Micro - I like really small plushies"
+"Scented - I like plushies that have a particular smell"
+"Puppets - I like plush puppets"
+"Realistic - I like plushies that look like the real animal"
+"Soft - I prefer plushies that are understuffed or floppy"
+"Talented - I look for plushies that are boinkable in some way"
+"Unadorned - I like my plushies unclothed and without adornments"
+"Whimsical - I like plushies that are fanciful forms of the real animal"
+"Damaged - I like plushies that have been mistreated in some way"
+"Characters/toons - I like plushies of cartoon characters"
+"SPA - I enjoy plushies that have a strategically-placed appendage"
+"I like just about all types of plushies"
+
+Realism VS Tooniness in General:
+
+Float32s each for:
+"What do you mean it isn't a photograph?"
+"Figments of the imagination have anatomies too, you know"
+"I like both, but prefer realistic furries"
+No particular preference
+"I like both, but prefer toons"
+"The toonier the better"
+"If it's not Super-Deformed I don't want to know about it"
+
+
+Desired Opinion on Realism VS Tooniness in General:
+
+Float32s each for:
+"What do you mean it isn't a photograph?"
+"Figments of the imagination have anatomies too, you know"
+"I like both, but prefer realistic furries"
+No particular preference
+"I like both, but prefer toons"
+"The toonier the better"
+"If it's not Super-Deformed I don't want to know about it"
+
+Opinion on Transformation:
+
+Float32s each for:
+"Never mind the fine print, where do I sign?"
+"Definitely! (as long as I get to choose the species)"
+"Yes, if it's reversible"
+"Probably, as long as I wasn't the first guinea pig (or whatever...)"
+"I'd have to think about it carefully"
+"Not personally"
+"What a horrible idea"
+
+Desired Opinion on Transformation:
+
+Float32s each for:
+"Never mind the fine print, where do I sign?"
+"Definitely! (as long as I get to choose the species)"
+"Yes, if it's reversible"
+"Probably, as long as I wasn't the first guinea pig (or whatever...)"
+"I'd have to think about it carefully"
+"Not personally"
+"What a horrible idea"
+
+Writing Status:
+
+Float32s each for:
+"I've out-sold Anne McAffrey, and the books are furry related"
+"I've out-sold Anne McAffrey, and the books are not furry-related"
+"I've sold a book, and the books are furry related"
+"I've sold a book, but the books are not furry-related"
+"I've sold a story to a real magazine *duck*, and it was furry related"
+"I've sold a story to a real magazine *duck*, but it wasn't furry-related"
+"I've sold stuff to fanzines that are furry related"
+"I've sold stuff to fanzines that aren't furry related"
+"I've written a story that somebody else has read"
+"I have these scribblings but nobody is ever going to see them!"
+"Never written a word of fiction"
+
+Desired Writing Status:
+
+Float32s each for:
+"I've out-sold Anne McAffrey, and the books are furry related"
+"I've out-sold Anne McAffrey, and the books are not furry-related"
+"I've sold a book, and the books are furry related"
+"I've sold a book, but the books are not furry-related"
+"I've sold a story to a real magazine *duck*, and it was furry related"
+"I've sold a story to a real magazine *duck*, but it wasn't furry-related"
+"I've sold stuff to fanzines that are furry related"
+"I've sold stuff to fanzines that aren't furry related"
+"I've written a story that somebody else has read"
+"I have these scribblings but nobody is ever going to see them!"
+"Never written a word of fiction"
+
+Zines Status:
+
+Float32s each for:
+"Publisher/editor/other staff on a professional furry-related publication"
+"I work on a regularly-published amateur zine, or I'm a frequently-published author/artist"
+"I've been published, or directly involved in a publication, at least once"
+"I have a good collection, and buy at least one title regularly"
+"I have a few furry zines"
+Not really interested
+"Comics are for kids"
+
+Desired Zines Status:
+
+Float32s each for:
+"Publisher/editor/other staff on a professional furry-related publication"
+"I work on a regularly-published amateur zine, or I'm a frequently-published author/artist"
+"I've been published, or directly involved in a publication, at least once"
+"I have a good collection, and buy at least one title regularly"
+"I have a few furry zines"
+Not really interested
+"Comics are for kids"
+
+Job:
+
+Float32s each for:
+"Art"
+"Business/Management"
+"Craft"
+"Construction Industry"
+"Computers/Information Technology"
+"Engineering"
+"Education/Teaching"
+"Farming"
+"Finance/Banking"
+"Government/Public Service"
+"Law"
+"Literature/Writing"
+"Music"
+"Military/Armed Forces"
+"Media/Communications"
+"Human Medicine"
+"Retail Business"
+"Science"
+"Theatre"
+"Transport Industry"
+"Veterinary Medicine"
+"Furry of All Trades (Specialisation is for insects)"
+Undecided
+"No qualifications, no job, no complaints"
+
+For each:
+A Current Status Float32 of:
+"I am trained in this field, but haven't managed to persuade anyone to pay me for doing it yet"
+ 
+Desired Job:
+
+Float32s each for:
+"Art"
+"Business/Management"
+"Craft"
+"Construction Industry"
+"Computers/Information Technology"
+"Engineering"
+"Education/Teaching"
+"Farming"
+"Finance/Banking"
+"Government/Public Service"
+"Law"
+"Literature/Writing"
+"Music"
+"Military/Armed Forces"
+"Media/Communications"
+"Human Medicine"
+"Retail Business"
+"Science"
+"Theatre"
+"Transport Industry"
+"Veterinary Medicine"
+"Furry of All Trades (Specialisation is for insects)"
+Undecided
+"No qualifications, no job, no complaints"
+
+For each:
+A Current Status Float32 of:
+"I am trained in this field, but haven't managed to persuade anyone to pay me for doing it yet"
+
+Favorite Operating System:
+
+Float32s each for:
+"AmigaOS"
+"MorphOS"
+"BSD-family distributions, such as FreeBSD, NetBSD, airyxOS, or OpenBSD"
+"MS-DOS or clones like FreeDOS, or MS-DOS relatives and/or derivatives"
+"Linux"
+"Macs"
+"Windows"
+"OS/2"
+"Commercial UNIX (Red Hat would be a Linux example of such an OS)"
+"VMS"
+"Legacy Windows versions such as Windows 3.x"
+
+Desired Favorite Operating System:
+
+Float32s each for:
+"AmigaOS"
+"MorphOS"
+"BSD-family distributions, such as FreeBSD, NetBSD, airyxOS, or OpenBSD"
+"MS-DOS or clones like FreeDOS, or MS-DOS relatives and/or derivatives"
+"Linux"
+"Macs"
+"Windows"
+"OS/2"
+"Commercial UNIX (Red Hat would be a Linux example of such an OS)"
+"VMS"
+"Legacy Windows versions such as Windows 3.x"
+
+Opinions on Doom/Quake/etc. al. :
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with DOOM."
+"I'd like to get paid for my involvement with DOOM."
+"What's DOOM?"
+"I don't play DOOM."
+"I work for ID, bow down before me"
+"I crank out PWAD files daily, complete with new monsters, weaponry, sounds and maps. I'm a DOOM God. I can solve the original maps in nightmare mode with my eyes closed."
+"I can solve every level in Nightmare mode with my eyes shut; I crank out new WAD files daily" (WAD files have to do with enhancing the game)
+"I've played the shareware version and bought the real one and I'm actually pretty good at the game. I occasionally download PWAD files and play them too." 
+"I've gotten pretty good at it; I can get through most levels easily; I've downloaded and played other WADs"
+"It's a fun action game that is a nice diversion on a lazy afternoon"
+"I've played the game and I'm pretty indifferent"
+"I've played the game and really didn't think it was all that impressive"
+"I miss Zork"
+"It's an overly-violent game and pure crap"
+"All this violence is sickening; there ought to be a law"
+"I've seen better on my Atari 2600"
+
+Desired Opinions on Doom/Quake/etc. al. :
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with DOOM."
+"I'd like to get paid for my involvement with DOOM."
+"What's DOOM?"
+"I don't play DOOM."
+"I work for ID, bow down before me"
+"I crank out PWAD files daily, complete with new monsters, weaponry, sounds and maps. I'm a DOOM God. I can solve the original maps in nightmare mode with my eyes closed."
+"I can solve every level in Nightmare mode with my eyes shut; I crank out new WAD files daily" (WAD files have to do with enhancing the game)
+"I've played the shareware version and bought the real one and I'm actually pretty good at the game. I occasionally download PWAD files and play them too." 
+"I've gotten pretty good at it; I can get through most levels easily; I've downloaded and played other WADs"
+"It's a fun action game that is a nice diversion on a lazy afternoon"
+"I've played the game and I'm pretty indifferent"
+"I've played the game and really didn't think it was all that impressive"
+"I miss Zork"
+"It's an overly-violent game and pure crap"
+"All this violence is sickening; there ought to be a law"
+"I've seen better on my Atari 2600"
+
+Level of Education:
+
+Float32s each for:
+" I vary widely for this category."
+"I get paid for my involvement with education."
+"I'd like to get paid for my involvement with education."
+"What's an education?"
+"I don't have an education."
+"I am Stephen Hawking"
+"Managed to get my Ph.D."
+"Doctorate, or the equivalent"
+"Master's degree, or the equivalent"
+"Bachelor's degree, or the equivalent"
+"Associate's degree, or the equivalent"
+"Some tertiary education"
+"Finished high school"
+"Haven't finished high school"
+"Haven't started high school"
+"Learned everything there is to know about life from The Hitch-Hiker's Guide to the Galaxy, my collection of Omaha comics, and late-night reruns of Star Trek and The Prisoner"
+"I learned everything there is to know about life from the "Hitchhiker's Trilogy"."
+"Graduate degree from the School of Hard Knocks" 
+Other, such as certifications and vocations, etc. al.
+
+Desired Level of Education:
+
+Float32s each for:
+" I vary widely for this category."
+"I get paid for my involvement with education."
+"I'd like to get paid for my involvement with education."
+"What's an education?"
+"I don't have an education."
+"I am Stephen Hawking"
+"Managed to get my Ph.D."
+"Doctorate, or the equivalent"
+"Master's degree, or the equivalent"
+"Bachelor's degree, or the equivalent"
+"Associate's degree, or the equivalent"
+"Some tertiary education"
+"Finished high school"
+"Haven't finished high school"
+"Haven't started high school"
+"Learned everything there is to know about life from The Hitch-Hiker's Guide to the Galaxy, my collection of Omaha comics, and late-night reruns of Star Trek and The Prisoner"
+"I learned everything there is to know about life from the "Hitchhiker's Trilogy"."
+"Graduate degree from the School of Hard Knocks"
+Other, such as certifications and vocations, etc. al.
+
+Housing Status:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid to live where I do."
+"I'd like to get paid to live where I do."
+"What's a house?"
+"Friends come over to visit every once in a while to talk about Geek and/or furry things. There is a place for them to sit."
+"Married ... with children"
+"Married, or shacked up with your SO on a long-term basis"
+"Living with one or more fellow furries and/or geeks"
+"Living with one or more people who know nothing about furriness or geekiness"
+"Living alone, other furries come to visit"
+"Living alone, get out once a week to buy food, all surfaces covered in  computers and/or zines"
+"Living in a cave with 47 computers and a T5 line"
+"I'm still stuck living with my parents"
+"I'm not sure where I live anymore; my workplace/lab seems like home to me"
+Homeless
+
+Desired Housing Status:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid to live where I do."
+"I'd like to get paid to live where I do."
+"What's a house?"
+"Friends come over to visit every once in a while to talk about Geek and/or furry things. There is a place for them to sit."
+"Married ... with children"
+"Married, or shacked up with your SO on a long-term basis"
+"Living with one or more fellow furries and/or geeks"
+"Living with one or more people who know nothing about furriness or geekiness"
+"Living alone, other furries come to visit"
+"Living alone, get out once a week to buy food, all surfaces covered in  computers and/or zines"
+"Living in a cave with 47 computers and a T5 line"
+"I'm still stuck living with my parents"
+"I'm not sure where I live anymore; my workplace/lab seems like home to me"
+Homeless
+
+Your Website:
+
+Float32s each for:
+"I don't have a website"
+"I have a website, but it doesn't mention Furries"
+"I have a website that mentions Furries"
+
+Your Dream Website:
+
+Float32s each for:
+"I don't have a website"
+"I have a website, but it doesn't mention Furries"
+"I have a website that mentions Furries"
+
+
+Relationship with the Internet:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with the Web."
+"I'd like to get paid for my involvement with the Web."
+"What's the Web?"
+"I don't use the web." 
+"I'm a webadmin/site administrator"
+"When I'm not on my normal net connection, I surf the web using my mobile internet"
+"I have a homepage. I surf daily. My homepage is advertised in my .signature."
+"I spend most of my spare time surfing the Web, and read anything that catches my interest"
+"I browse the Web regularly, and read a handful of articles"
+"I have the latest browser version, and wander the web only when there's something specific I'm looking for."
+"I have a browser and a connection, and even use them occasionally"
+"The web is really a pain. Life was so much easier when you could transfer information by simple ASCII. Now everyone won't even consider your ideas unless you spiff them up with bandwidth-consuming pictures and pointless information links."
+Not connected yet
+"A pox on the Web! It wastes time and bandwidth and just gives the uneducated sheeple a reason to clutter the Internet."
+"The Internet sucks; it's all just a flash in the pan anyway"
+"It's a dangerous, subversive, perverted abomination that needs to be banned before people stop voting for me"
+
+
+Desired Relationship with the Internet:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with the Web."
+"I'd like to get paid for my involvement with the Web."
+"What's the Web?"
+"I don't use the web." 
+"I'm a webadmin/site administrator"
+"When I'm not on my normal net connection, I surf the web using my mobile internet"
+"I have a homepage. I surf daily. My homepage is advertised in my .signature."
+"I spend most of my spare time surfing the Web, and read anything that catches my interest"
+"I browse the Web regularly, and read a handful of articles"
+"I have the latest browser version, and wander the web only when there's something specific I'm looking for."
+"I have a browser and a connection, and even use them occasionally"
+"The web is really a pain. Life was so much easier when you could transfer information by simple ASCII. Now everyone won't even consider your ideas unless you spiff them up with bandwidth-consuming pictures and pointless information links."
+Not connected yet
+"A pox on the Web! It wastes time and bandwidth and just gives the uneducated sheeple a reason to clutter the Internet."
+"The Internet sucks; it's all just a flash in the pan anyway"
+"It's a dangerous, subversive, perverted abomination that needs to be banned before people stop voting for me"
+
+Relationship with Online News Discussion Boards:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with online news discussion boards."
+"I'd like to get paid for my involvement with online news discussion boards."
+"What's online news?"
+"I don't use such sites."
+"I am Tim Pierce"
+"I read so many news articles that the next batch of news comes in before I finish reading the last batch, and I have to read for about 2 hours straight before I'm caught up on the morning's news. Then there's the afternoon..."
+"I read all the news in a select handful of sectors."
+"I read news recreationally when I have some time to kill."
+"Online News? Sure, I read that once"
+"News is a waste of my time and I avoid it completely"
+"News sucks! 'Nuff said."
+"I work for Time Magazine."
+"I am a Scientologist."
+"All I do is read news"  
+
+Desired Relationship with Online News Discussion Boards:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with online news discussion boards."
+"I'd like to get paid for my involvement with online news discussion boards."
+"What's online news?"
+"I don't use such sites."
+"I am Tim Pierce"
+"I read so many news articles that the next batch of news comes in before I finish reading the last batch, and I have to read for about 2 hours straight before I'm caught up on the morning's news. Then there's the afternoon..."
+"I read all the news in a select handful of sectors."
+"I read news recreationally when I have some time to kill."
+"Online News? Sure, I read that once"
+"News is a waste of my time and I avoid it completely"
+"News sucks! 'Nuff said."
+"I work for Time Magazine."
+"I am a Scientologist."
+"All I do is read news"  
+
+Relationship with Online Advice Sources:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with online advice sources."
+"I'd like to get paid for my involvement with online advice sources."
+"What's an online advice source?"
+"I don't consult online advice sources."
+"I am Steve Kinzler"
+"I am an active senior contributor."
+"I was a senior contributor, but have retired."
+"I have made the Best Of list"
+"I have been praised and/or quickly answered at least once."
+"I've submitted a question, but it has never been answered."
+"I sent my question to the wrong group and got flamed."
+"Who needs answers from a bunch of geeks anyhow?" 
+
+Desired Relationship with Online Advice Sources:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with online advice sources."
+"I'd like to get paid for my involvement with online advice sources."
+"What's an online advice source?"
+"I don't consult online advice sources."
+"I am Steve Kinzler"
+"I am an active senior contributor."
+"I was a senior contributor, but have retired."
+"I have made the Best Of list"
+"I have been praised and/or quickly answered at least once."
+"I've submitted a question, but it has never been answered."
+"I sent my question to the wrong group and got flamed."
+"Who needs answers from a bunch of geeks anyhow?" 
+
+Opinions on Respected Online Figures:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with respected online figures."
+"I'd like to get paid for my involvement with respected online figures."
+"What's a respected online figure anyways? They're just people on the scary web."
+"I intentionally avoid online figures respected enough to be influencers."
+"I am an influencer or other respected online figure"
+"I've had a relationship with an online celebrity"
+"I've met an influencer/respected online figure"
+"I've gotten an e-mail from a respected online figure"
+"I've read articles about a famous online celebrity"
+"I like influencers"
+"I know who that famous online celebrity is"
+"I don't know who that influencer is"
+"I dislike influencers"
+"I am currently hunting internet trolls down with the intent of ripping their still-beating hearts out of their chests and showing them to them as they die, all for the desire of protecting this poor influencer from their trolls"
+"I am an internet troll"
+
+Desired Opinions on Respected Online Figures:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with respected online figures."
+"I'd like to get paid for my involvement with respected online figures."
+"What's a respected online figure anyways? They're just people on the scary web."
+"I intentionally avoid online figures respected enough to be influencers."
+"I am an influencer or other respected online figure"
+"I've had a relationship with an online celebrity"
+"I've met an influencer/respected online figure"
+"I've gotten an e-mail from a respected online figure"
+"I've read articles about a famous online celebrity"
+"I like influencers"
+"I know who that famous online celebrity is"
+"I don't know who that influencer is"
+"I dislike influencers"
+"I am currently hunting internet trolls down with the intent of ripping their still-beating hearts out of their chests and showing them to them as they die, all for the desire of protecting this poor influencer from their trolls"
+"I am an internet troll"
+
+Relationship with Microsoft Windows:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with Windows."
+"I'd like to get paid for my involvement with Windows."
+"What's Windows?"
+"I don't use Windows."
+"I am Bill Gates"
+"I have Windows, Windows Pro, Windows Server, and Windows Server Ultimate all running on my ARM64 server machine. I haven't seen daylight in six months."
+"I am a MS Windows programming god. I wrote a driver to allow MS Windows and WSA to share the use of my waffle iron. P.S. Unix sux."
+"I write MS Windows programs in C and think about using C++ someday. I've written at least one DLL."
+"I have installed my own custom sounds, wallpaper, and screen savers so my PC walks and talks like a fun house. Oh yeah, I have a hundred OpenType TrueType(tm) fonts that I've installed but never used. I never lose Minesweeper and Solitaire"
+
+"Ok, so I use MS Windows, I don't have to like it."
+"I'm still trying to install MS Windows and have at least one peripheral that never works right"
+"MS Windows is a joke operating system. Hell, it's not even an operating system. NT is Not Tough enough for me either. IA32 is how many times it will crash an hour."
+"Windows has set back the computing industry by at least 10 years. Bill Gates should be drawn, quartered, hung, shot, poisoned, disembowelled, and then REALLY hurt."
+
+Desired Relationship with Microsoft Windows:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with Windows."
+"I'd like to get paid for my involvement with Windows."
+"What's Windows?"
+"I don't use Windows."
+"I am Bill Gates"
+"I have Windows, Windows Pro, Windows Server, and Windows Server Ultimate all running on my ARM64 server machine. I haven't seen daylight in six months."
+"I am a MS Windows programming god. I wrote a driver to allow MS Windows and WSA to share the use of my waffle iron. P.S. Unix sux."
+"I write MS Windows programs in C and think about using C++ someday. I've written at least one DLL."
+"I have installed my own custom sounds, wallpaper, and screen savers so my PC walks and talks like a fun house. Oh yeah, I have a hundred OpenType TrueType(tm) fonts that I've installed but never used. I never lose Minesweeper and Solitaire"
+
+"Ok, so I use MS Windows, I don't have to like it."
+"I'm still trying to install MS Windows and have at least one peripheral that never works right"
+"MS Windows is a joke operating system. Hell, it's not even an operating system. NT is Not Tough enough for me either. IA32 is how many times it will crash an hour."
+"Windows has set back the computing industry by at least 10 years. Bill Gates should be drawn, quartered, hung, shot, poisoned, disembowelled, and then REALLY hurt."
+
+Opinions on OS/2:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with OS/2."
+"I'd like to get paid for my involvement with OS/2."
+"What's the OS/2?"
+"I don't use OS/2." 
+"I live, eat and breathe OS/2. All of my hard drives are HPFS. I am the Anti-Gates."
+"I use OS/2 for all my computing needs. I use some DOS and Windows programs, but run them under OS/2. If the program won't run under OS/2, then obviously I don't need it."
+"I keep a DOS partition on my hard drive "just in case". I'm afraid to try HPFS."
+"I finally managed to get OS/2 installed but wasn't too terribly impressed."
+"Tried it, didn't like it."
+"I can't even get the thing to install!"
+"Windows RULES!!! Long live Bill Gates. (See w++++)"
+"I am Bill Gates of Borg. OS/2 is irrelevant."
+
+Desired Opinions on OS/2:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with OS/2."
+"I'd like to get paid for my involvement with OS/2."
+"What's the OS/2?"
+"I don't use OS/2." 
+"I live, eat and breathe OS/2. All of my hard drives are HPFS. I am the Anti-Gates."
+"I use OS/2 for all my computing needs. I use some DOS and Windows programs, but run them under OS/2. If the program won't run under OS/2, then obviously I don't need it."
+"I keep a DOS partition on my hard drive "just in case". I'm afraid to try HPFS."
+"I finally managed to get OS/2 installed but wasn't too terribly impressed."
+"Tried it, didn't like it."
+"I can't even get the thing to install!"
+"Windows RULES!!! Long live Bill Gates. (See w++++)"
+"I am Bill Gates of Borg. OS/2 is irrelevant."
+
+Opinions on Macs:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with Macs."
+"I'd like to get paid for my involvement with Macs."
+"What's a Mac?"
+"I don't use a Mac."
+"I am a Mac guru. Anything those Microsoft putzes and Linux nerds can do, I can do better, and if not, I'll write the damn software to do it."
+"A Mac has it's uses and I use it quite often."
+"I use a Mac, but I'm pretty indifferent about it."
+"Macs suck. All real geeks have a character prompt."
+"Macs do more than suck. They make a user clumsy by allowing them to use the system without knowing what they are doing. Mac users have lower subtlety than the fuzz in my navel." 
+
+Desired Opinions on Macs:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with Macs."
+"I'd like to get paid for my involvement with Macs."
+"What's a Mac?"
+"I don't use a Mac."
+"I am a Mac guru. Anything those Microsoft putzes and Linux nerds can do, I can do better, and if not, I'll write the damn software to do it."
+"A Mac has it's uses and I use it quite often."
+"I use a Mac, but I'm pretty indifferent about it."
+"Macs suck. All real geeks have a character prompt."
+"Macs do more than suck. They make a user clumsy by allowing them to use the system without knowing what they are doing. Mac users have lower subtlety than the fuzz in my navel." 
+
+Opinions on VMS:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid to use VMS."
+"I'd like to get paid to use VMS."
+"What's the VMS?"
+"I don't use VMS."
+"I am a VMS sysadmin. I wield far more power than those Linux admins, because Linux can be found on any server owner's desktop. Power through obscurity is my motto." 
+"Linux is a passing fad compared to the real power in the universe, my VMS system."
+"I tend to like VMS better than Unix-like operating systems"
+"I've used VMS."
+"Unix-like OS choices are much better than VMS for my computing needs."
+"I would rather smash my head repeatedly into a brick wall than suffer the agony of working with VMS. It's reminiscent of a dead and decaying pile of moose droppings. Linux rules the universe."
+
+Desired Opinions on VMS:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid to use VMS."
+"I'd like to get paid to use VMS."
+"What's the VMS?"
+"I don't use VMS."
+"I am a VMS sysadmin. I wield far more power than those Linux admins, because Linux can be found on any server owner's desktop. Power through obscurity is my motto." 
+"Linux is a passing fad compared to the real power in the universe, my VMS system."
+"I tend to like VMS better than Unix-like operating systems"
+"I've used VMS."
+"Unix-like OS choices are much better than VMS for my computing needs."
+"I would rather smash my head repeatedly into a brick wall than suffer the agony of working with VMS. It's reminiscent of a dead and decaying pile of moose droppings. Linux rules the universe."
+
+Political and Social Issues:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid to have social views."
+"I'd like to get paid to have social views."
+"Politics? Society? What are they?"
+"I don't have any social views."
+"Decriminalize addiction! Abolish the government. 'End the draft!', etc. al."
+"I give to liberal causes. I march for 2SLGBTQIA+ rights. I'm a card carrying member of the ACLU. Keep abortion safe and legal."
+"Label records! Keep dirty stuff off the TV and the Internet."
+
+"I really don't have an opinion; nobody's messing with my freedoms right now."
+
+Politics and Economic Issues:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid to deal with economic issues."
+"I'd like to get paid to deal with economic issues."
+"Economics? What's that?"
+"I don't care about economics."
+"It's ok to increase government spending, so we can help more poor people. Tax the rich!"
+"Capitalism is evil! Government should provide the services we really need."
+
+Digital Privacy:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid to be a privacy advocate"
+"I'd like to get paid to be a privacy advocate."
+"What's a privacy advocate?"
+"Orwell's 1984 is more than a story, it is a warning to our's and future generations. I'm a member of the EFF."
+"I have an interest and concern in privacy issues, but in reality I am not really all that active or vocal."
+"I'm pretty indifferent on the whole issue."
+"It seems to me that all of these concerns are a little extreme. I mean, the government must be able to protect itself from criminals."
+"Get a life. The only people that need this kind of protection are people with something to hide."
+
+Opinions on Encryption Software such as BWTC32Key and PGP/GPG:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid to use encryption."
+"I'd like to get paid to use encryption."
+"What's encryption?"
+"I don't use encryption."
+"I am Philip Zimmerman"
+"I don't send or answer mail that is not encrypted, or at the very least signed. If you are reading this without decrypting it first, something is wrong. IT DIDN'T COME FROM ME!"
+"I have the most recent version of my encryption software and use it regularly."
+"IM me for my public key"
+"I've used PGP, but stopped long ago."
+"I don't have anything to hide."
+"I feel that the glory of the Internet is in the anarchic, trusting environment that so nurtures the exchange of information. Encryption just bogs that down."
+"If you support encryption on the Internet, you must be a drug dealer or terrorist or something like that."
+"Oh, here is something you all can use that is better (insert clipper here)." 
+
+Desired Opinions on Encryption Software such as BWTC32Key and PGP/GPG:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid to use encryption."
+"I'd like to get paid to use encryption."
+"What's encryption?"
+"I don't use encryption."
+"I am Philip Zimmerman"
+"I don't send or answer mail that is not encrypted, or at the very least signed. If you are reading this without decrypting it first, something is wrong. IT DIDN'T COME FROM ME!"
+"I have the most recent version of my encryption software and use it regularly."
+"IM me for my public key"
+"I've used PGP, but stopped long ago."
+"I don't have anything to hide."
+"I feel that the glory of the Internet is in the anarchic, trusting environment that so nurtures the exchange of information. Encryption just bogs that down."
+"If you support encryption on the Internet, you must be a drug dealer or terrorist or something like that."
+"Oh, here is something you all can use that is better (insert clipper here)." 
+
+Opinion on Star Trek:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with Star Trek."
+"I'd like to get paid for my involvement with Star Trek."
+"What's the Star Trek?"
+"I don't watch Star Trek."
+"It's not just a TV show, it's a religion. I know all about warp field dynamics and the principles behind the transporter. I have memorized the TECH manual. I speak Klingon. I go to cons with Vulcan ears on. I have no life."
+"It's the best show around. I have all the episodes and the movies on tape and can quote entire scenes verbatim. I've built a few of the model kits too. But you'll never catch me at one of those conventions. Those people are kooks."
+"It's a damn fine TV show and is one of the only things good on television any more."
+"It's just another TV show"
+"Maybe it is just me, but I have no idea what the big deal with Star Trek is. Perhaps I'm missing something but I just think it is bad drama." 
+"Star Trek is just another Space Opera. William Shatner isn't an actor, he's a snob! And what's with this Jean-Luc Picard? A Frenchman with a British accent? Come on. I'd only watch this show if my remote control broke. Isn't Voyager just a rehash of Lost in Space? Has Sisko even breathed in the last two seasons?"
+"Star Trek SUCKS! It is the worst crap I have ever seen! Hey, all you trekkies out there, GET A LIFE! (William Shatner is a tool)"
+
+"I find favor with Barclay, the greatest of the Trek Geeks."
+
+Desired Opinion on Star Trek:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with Star Trek."
+"I'd like to get paid for my involvement with Star Trek."
+"What's the Star Trek?"
+"I don't watch Star Trek."
+"It's not just a TV show, it's a religion. I know all about warp field dynamics and the principles behind the transporter. I have memorized the TECH manual. I speak Klingon. I go to cons with Vulcan ears on. I have no life."
+"It's the best show around. I have all the episodes and the movies on tape and can quote entire scenes verbatim. I've built a few of the model kits too. But you'll never catch me at one of those conventions. Those people are kooks."
+"It's a damn fine TV show and is one of the only things good on television any more."
+"It's just another TV show"
+"Maybe it is just me, but I have no idea what the big deal with Star Trek is. Perhaps I'm missing something but I just think it is bad drama." 
+"Star Trek is just another Space Opera. William Shatner isn't an actor, he's a snob! And what's with this Jean-Luc Picard? A Frenchman with a British accent? Come on. I'd only watch this show if my remote control broke. Isn't Voyager just a rehash of Lost in Space? Has Sisko even breathed in the last two seasons?"
+"Star Trek SUCKS! It is the worst crap I have ever seen! Hey, all you trekkies out there, GET A LIFE! (William Shatner is a tool)"
+
+"I find favor with Barclay, the greatest of the Trek Geeks."
+
+Opinions on Babylon 5:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with Babylon 5."
+"I'd like to get paid for my involvement with Babylon 5."
+"What's the Babylon 5?"
+"I don't watch Babylon 5."  
+"I am J. Michael Straczynski"
+"I am a True Worshipper of the Church of Joe who lives eats breathes and thinks Babylon 5, and has Evil thoughts about stealing Joe's videotape archives just to see episodes earlier. I am planning to break into the bank and steal the triple-encoded synopsis of the 5-year arc."
+"Finally a show that shows what a real future would look like. None of this Picardian 'Let's talk about it and be friends' crap. And what's this? We finally get to see a bathroom! Over on that Enterprise, they've been holding it for over seven years!"
+"Babylon 5 certainly presents a fresh perspective in the Sci-Fi universe. I watch it weekly."
+"I've seen it, I am pretty indifferent to it."
+"This show is sub-par. The acting is wooden, the special effects are obviously poor quality. In general, it seems like a very cheap Star Trek ripoff."
+"You call this Sci-Fi? That is such a load of crap! This show is just a soap with bad actors, piss-poor effects, and lame storylines. Puh-leese."
+
+Desired Opinions on Babylon 5:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with Babylon 5."
+"I'd like to get paid for my involvement with Babylon 5."
+"What's the Babylon 5?"
+"I don't watch Babylon 5."  
+"I am J. Michael Straczynski"
+"I am a True Worshipper of the Church of Joe who lives eats breathes and thinks Babylon 5, and has Evil thoughts about stealing Joe's videotape archives just to see episodes earlier. I am planning to break into the bank and steal the triple-encoded synopsis of the 5-year arc."
+"Finally a show that shows what a real future would look like. None of this Picardian 'Let's talk about it and be friends' crap. And what's this? We finally get to see a bathroom! Over on that Enterprise, they've been holding it for over seven years!"
+"Babylon 5 certainly presents a fresh perspective in the Sci-Fi universe. I watch it weekly."
+"I've seen it, I am pretty indifferent to it."
+"This show is sub-par. The acting is wooden, the special effects are obviously poor quality. In general, it seems like a very cheap Star Trek ripoff."
+"You call this Sci-Fi? That is such a load of crap! This show is just a soap with bad actors, piss-poor effects, and lame storylines. Puh-leese."
+
+Opinions on The X-Files:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with X-Files."
+"I'd like to get paid for my involvement with X-Files."
+"What's the X-Files?"
+"I don't watch X-Files." 
+"I am Chris Carter"
+"This is the BEST show on TV, and it's about time. I've seen everything David Duchovny and Gillian Anderson have ever done that been recorded and I'm a loyal Duchovny/ Gillian Anderson fan. I've Converted at least 10 people. I have every episode at SP, debate the fine details on-line, and have a credit for at least 2 YAXAs."
+"This is one of the better shows I've seen. I wish I'd taped everything from the start at SP, because I'm wearing out my EP tapes. I'll periodically debate online. I've Converted at least 5 people. I've gotten a YAXA."
+"I've Converted my family and watch the show when I remember. It's really kinda fun."
+"Ho hum. Just another Fox show."
+"It's ok if you like paranoia and conspiracy stories, but, let's face it, it's crap."
+"If I wanted to watch this kind of stuff, I'd talk to Oliver Stone"
+
+Desired Opinions on The X-Files:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with X-Files."
+"I'd like to get paid for my involvement with X-Files."
+"What's the X-Files?"
+"I don't watch X-Files." 
+"I am Chris Carter"
+"This is the BEST show on TV, and it's about time. I've seen everything David Duchovny and Gillian Anderson have ever done that been recorded and I'm a loyal Duchovny/ Gillian Anderson fan. I've Converted at least 10 people. I have every episode at SP, debate the fine details on-line, and have a credit for at least 2 YAXAs."
+"This is one of the better shows I've seen. I wish I'd taped everything from the start at SP, because I'm wearing out my EP tapes. I'll periodically debate online. I've Converted at least 5 people. I've gotten a YAXA."
+"I've Converted my family and watch the show when I remember. It's really kinda fun."
+"Ho hum. Just another Fox show."
+"It's ok if you like paranoia and conspiracy stories, but, let's face it, it's crap."
+"If I wanted to watch this kind of stuff, I'd talk to Oliver Stone"
+
+Opinions on TTRPGs:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with tabletop role-playing games."
+"I'd like to get paid for my involvement with tabletop role-playing games."
+"What's a TTRPG?"
+"I don't role-play."
+"I've written and published my own gaming materials."
+"There is no life outside the role of the die. I know all of piddly rules of (chosen game). _MY_ own warped rules scare the rest of the players."
+"I've got my weekly sessions set up and a character that I know better than I know myself."
+"Role-Playing? That's just something to do to kill a Saturday afternoon"
+"Gosh, what an utter waste of time!"
+"Role-Players are instruments of pure evil."
+"I work for T$R."
+"I thought life WAS role-playing?"
+
+Desired Opinions on TTRPGs:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with tabletop role-playing games."
+"I'd like to get paid for my involvement with tabletop role-playing games."
+"What's a TTRPG?"
+"I don't role-play."
+"I've written and published my own gaming materials."
+"There is no life outside the role of the die. I know all of piddly rules of (chosen game). _MY_ own warped rules scare the rest of the players."
+"I've got my weekly sessions set up and a character that I know better than I know myself."
+"Role-Playing? That's just something to do to kill a Saturday afternoon"
+"Gosh, what an utter waste of time!"
+"Role-Players are instruments of pure evil."
+"I work for T$R."
+"I thought life WAS role-playing?"
+
+Opinions on Television:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with television."
+"I'd like to get paid for my involvement with television."
+"What's a television?"
+"There's nothing I can experience "out there" that I can't see coming over my satellite dish. I wish there were MORE channels." 
+"I live for the newest televized Trial Of The Century."
+"I just leave the tv on, to make sure I don't miss anything."
+"I watch some tv every day."
+"I watch only the shows that are actually worthwhile, such as those found on PBS."
+"I watch tv for the news and 'special programming.' "
+"I turn my tv on during natural disasters."
+"I do not own a television."
+
+ 
+Desired Opinions on Television:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with television."
+"I'd like to get paid for my involvement with television."
+"What's a television?"
+"There's nothing I can experience "out there" that I can't see coming over my satellite dish. I wish there were MORE channels." 
+"I live for the newest televized Trial Of The Century."
+"I just leave the tv on, to make sure I don't miss anything."
+"I watch some tv every day."
+"I watch only the shows that are actually worthwhile, such as those found on PBS."
+"I watch tv for the news and 'special programming.' "
+"I turn my tv on during natural disasters."
+"I do not own a television."
+
+Opinions on Books:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with books."
+"I'd like to get paid for my involvement with books."
+"What's a book?"
+"I don't read books."
+"I read a book a day. I have library cards in three states. I have discount cards from every major bookstore. I've ordered books from another country to get my Favorite Author Fix."
+"I consume a few books a week as part of a staple diet."
+"I find the time to get through at least one new book a month."
+"I enjoy reading, but don't get the time very often."
+"I read the newspaper and the occasional book."
+"I read when there is no other way to get the information."
+"I did not actually READ the geek code, I just had someone tell me."
+
+Desired Opinions on Books:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with books."
+"I'd like to get paid for my involvement with books."
+"What's a book?"
+"I don't read books."
+"I read a book a day. I have library cards in three states. I have discount cards from every major bookstore. I've ordered books from another country to get my Favorite Author Fix."
+"I consume a few books a week as part of a staple diet."
+"I find the time to get through at least one new book a month."
+"I enjoy reading, but don't get the time very often."
+"I read the newspaper and the occasional book."
+"I read when there is no other way to get the information."
+"I did not actually READ the geek code, I just had someone tell me."
+
+
+Opinions on The Geek Code:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with the Geek Code."
+"I'd like to get paid for my involvement with the Geek Code."
+"What's a Geek Code?"
+"I don't have a Geek Code"
+"I am Robert Hayden"
+"I have made a suggestion for future versions of the code (note that making a suggestion just to get a G++++ rating doesn't count, you also have to at least qualify for a G+++ rating :-)"
+"I have memorized the entire geek code, and can decode others' codes in my head. I know by heart where to find the current version of the code on the net."
+"I know what each letter means, but sometimes have to look up the specifics."
+"I was once G++ (or higher), but the new versions are getting too long and too complicated."
+"I know what the geek code is and even did up this code."
+"What a tremendous waste of time this Geek Code is."
+"Not only a waste of time, but it obviously shows that this Hayden guy needs a life."
+
+Desired Opinions on The Geek Code:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid for my involvement with the Geek Code."
+"I'd like to get paid for my involvement with the Geek Code."
+"What's a Geek Code?"
+"I don't have a Geek Code"
+"I am Robert Hayden"
+"I have made a suggestion for future versions of the code (note that making a suggestion just to get a G++++ rating doesn't count, you also have to at least qualify for a G+++ rating :-)"
+"I have memorized the entire geek code, and can decode others' codes in my head. I know by heart where to find the current version of the code on the net."
+"I know what each letter means, but sometimes have to look up the specifics."
+"I was once G++ (or higher), but the new versions are getting too long and too complicated."
+"I know what the geek code is and even did up this code."
+"What a tremendous waste of time this Geek Code is."
+"Not only a waste of time, but it obviously shows that this Hayden guy needs a life."
+
+Opinions on Anime:
+
+Float32s each for:
+"I am a writer/artist/seiyuu"
+"I own every episode of every series ever made"
+"I watch it in all my spare time (furry fandom is, of course, not spare time"
+"Others know I'm an Anime fan"
+"Seen it, might think about seeing it again some time"
+"Haven't seen it, but would be interested when I get the time"
+"What's Anime?"
+"There should be a law against anything that cute"
+"I'll watch it, but only if it's fully dubbed"
+
+Desired Opinions on Anime:
+
+Float32s each for:
+"I am a writer/artist/seiyuu"
+"I own every episode of every series ever made"
+"I watch it in all my spare time (furry fandom is, of course, not spare time"
+"Others know I'm an Anime fan"
+"Seen it, might think about seeing it again some time"
+"Haven't seen it, but would be interested when I get the time"
+"What's Anime?"
+"There should be a law against anything that cute"
+"I'll watch it, but only if it's fully dubbed"
+
+Pets Owned: Int8
+
+Exotic Pets Owned: Int8
+
+Desired Number of Pets: Int8
+
+Desired Number of Exotic Pets: Int8
+
+Character Diet:
+Float32s each for:
+
+Vegetarian
+Eats salads with small chunks of meat on them
+Lives off of grubs
+Eats whatever can be caught at the moment
+Eats mainly dairy products, namely the meat kind
+Eats large game and maybe very-humanoid entities
+Eats extremely-humanoid entities alone
+"Insatiable"
+"Voracious"
+"Glutton"
+"Overindulgent"
+Normal
+"Dieting"
+"Efficient"
+"Has anorexia or a similar ED"
+"Fasting"
+Unknown
+"Fluid drinker"
+"Junk food addict"
+"Magic-eater/Thaumivore"
+"Meat-eater/Carnivore"
+"Mineral eater"
+"Normal/Omnivore"
+"Photosynthesizer"
+"Vegetarian/Herbivore"
+Anything
+
+
+Gender: Float32 each:
+Male
+Female
+Nonbinary
+Variable
+Genderless
+Salmacian/Aphrodisian
+"My gender is nobody's business"
+Unknown
+Other
+None
+
+Intersex: Bool
+
+Gender in Bio Flag: Bool
+
+Mental Gender: Float32 each
+Male
+Female
+Nonbinary
+Variable
+Genderless
+Salmacian/Aphrodisian
+"My gender is nobody's business"
+Polymorph
+Unknown
+Other
+None
+
+Mental Gender in Bio Flag: Bool
+
+Desired Gender: Float32 each
+Male
+Female
+Nonbinary
+Variable
+Genderless
+Salmacian/Aphrodisian
+"My gender is nobody's business"
+Polymorph
+Unknown
+Other
+None
+
+Desired Gender in Bio Flag: Bool
+
+Weight: Float32
+Apparent Weight: Float32
+Height: Float32
+
+Weight Units: bool (metric [0] or Imperial [1])
+
+Apparent Weight Units: bool (metric [0] or Imperial [1])
+
+Height Units: bool (metric [0] or Imperial [1])
+
+Level of Muscularity: Float64
+
+Level of Boniness: Float32
+
+Preferred Units: Bool (metric [0] or Imperial [1]) (Will be used for the parts sections below.)
+
+Appendages:
+
+Variable: Float32
+Unknown: Float32
+
+Head(s): Float32
+Crest(s): Float32
+Pair of Horns: Float32
+Pair of Wings: Float32
+Pair of Wings that act like Forelimbs: Float32
+Pair of Arms: Float32
+Pair of paddles, flukes, or fins: Float32
+Pair of legs: Float32
+Tail: Float32
+Other: Float32
+Webbed hands/feet: Float32
+
+For each value, choose from: Usual Number per set, specify number (Float32), One more than usual, one less than usual, many, variable, or variable+many.
+
+Body skin type: Float32 each
+Bark
+Cellulose
+Crystal
+Exoskeleton
+Feathers
+Fur
+Hide
+Leather
+Metal
+Rock
+Scales
+Skin
+None
+Variable
+Unknown
+
+Each part gets these, a Float32 for all 3 dimensions, as well as:
+
+Color 1:
+RGBA stored as a 32-bit value, with 32bit float brightness value, with effects of
+Metallic
+Transparent
+Luminous/fiery
+Pearlescent
+Glittery  
+
+and
+
+Color 2:
+RGBA stored as a 32-bit value, with 32bit float brightness value, with effects of
+Metallic
+Transparent
+Luminous/fiery
+Pearlescent
+Glittery  
+
+with Float32s each selecting how the colors will be mixed (if applicable)
+Bands of
+Changing to
+Iridescence of
+Marbled with
+Mixed with
+Mottled with
+Patterned with
+Plaid with
+Spots of
+Stars of
+Stripes of
+
+Breath Weapons (Float32s each):
+Acid
+Cold/Frost
+Enchantment
+Energy
+Flame
+Heat
+Ice
+Lava
+Light
+Plasma
+Rot
+Smoke
+Steam
+Sulfur
+Volcanic Gas
+Water
+Wind
+Electricity/Lightning
+Other
+Unknown
+Anything
+
+Each gets a Float32 each of Beam or Cloud
+
+Age: Uint8
+
+Scale of online involvement: Float64
+
+Goodness of Attitude: Float64
+
+Native Land: Float32 each of:
+Air
+Ethereal
+Fire
+Ice
+Imaginary
+Jungle
+Mountains
+Nature
+Plains
+Rock
+Space
+Trees
+Underground
+Urban
+Water
+Variable
+Unknown
+
+Relationship Status:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid to have relationships."
+"I'd like to get paid to have relationships."
+"What's a relationship?"
+"Found someone, dated, and am now married."
+"I've dated my current S.O. for a long time."
+"I date frequently, bouncing from one relationship to another."
+"I date periodically."
+"I have difficulty maintaining a relationship."
+"People just aren't interested in dating me."
+"I'm beginning to think that I have leprosy or something, the way people avoid me like the plague."
+"I've never had a relationship."
+"Signifying membership in the SSC (Sour Singles Club). The motto is 'Bitter, but not Desperate'. First founded in California."
+"I was going out with someone, but they dumped me."
+
+Desired Relationship Status:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid to have relationships."
+"I'd like to get paid to have relationships."
+"What's a relationship?"
+"Found someone, dated, and am now married."
+"I've dated my current S.O. for a long time."
+"I date frequently, bouncing from one relationship to another."
+"I date periodically."
+"I have difficulty maintaining a relationship."
+"People just aren't interested in dating me."
+"I'm beginning to think that I have leprosy or something, the way people avoid me like the plague."
+"I've never had a relationship."
+"Signifying membership in the SSC (Sour Singles Club). The motto is 'Bitter, but not Desperate'. First founded in California."
+"I was going out with someone, but they dumped me."
+
+Mating Status:
+
+Float32s each for:
+"I'm mated in real life to my on-line mate(s)!"
+"The mate(s) and I go way back!"
+"Ask my significant other!
+"Ask my mate-to-be!"
+"Ask me and I might just say yes!"
+"Don't ask!"
+"Ask my gaming buddies!"
+"I'm single and I'm very proud of it!"
+"I despise the very idea of mating!"
+"Currently has a mate"
+"Am looking for a mate"
+"Would like to meet new friends"
+"Is looking to have some...fun..."
+
+
+
+
+
+Chromosomes: Float32 for each (to account for mosaicism and percentages of such)
+45X
+46XX
+46XY
+47XYY
+47XXY
+47XXX
+48XXXX
+48XXXY
+48XXYY
+48XYYY
+49XYYYY
+49XXYYY
+49XXXYY
+49XXXXY
+49XXXXX
+
+Float32s each for:
+Number of current mates
+Is distant from
+Separate mates
+Bitter past mates
+Dead mates
+
+Offspring:
+
+Float32s each for:
+
+"Many, still at home"
+"Several, still at home"
+"A couple, still at home"
+"One still at home"
+"This many, still at home"
+None
+"This many, left home"
+"A couple, left home"
+"Several, left home"
+"Many, left home"
+Variable
+Unknown/lost count
+"If I heard one was my fault, I would faint."
+Adopted
+
+Hoard Size:
+
+Float32s each for:
+
+"Makes governments rich"
+"Can't tell when someone steals"
+"Comfortable, wouldn't mind more"
+"Not down to the last copper"
+Normal
+"Bank owns part of the lair"
+"Lair is rented and cramped"
+"No money or lair, just  not starving"
+"At least you have friends"
+Variable
+Unknown
+
+Monetary Philosophy:
+
+Float32s each for:
+
+"All things of value gravitate towards me."
+"My face is on the money"
+"Kills others for wealth"
+"Does reposessions *chomp* personally"
+"Take your hands off my hoard"
+"I spent it all"
+"I get stolen from"
+"I give my money to the poor"
+"I give everything away"
+Variable
+Unknown
+
+
+Reality index:
+
+Float32s each for:
+
+"This is really what I am"
+"Any human you see is just a messenger"
+"Strongly identify with this form"
+"Part of my self-image"
+"I'm just me"
+"I don't think it's possible"
+"This is just my imagination"
+"This is just everyone's imagination"
+"It's just role-playing and nothing more"
+Don't ask
+Variable
+"Haven't thought about it"
+"What do you mean? You humans always ask the oddest questions."
+"It's just something I enjoy reading about and looking at pictures of."
+
+Draconity Index:
+
+Float32s each for:
+
+"Wanna see my scales and fangs? :=8)"
+"I'm just waiting for my wings and tail to grow in!"
+"Ask my Inner Dragon."
+"I have draconic tendencies"
+"It is possible a distant relative was a dragon"
+"Certified greggil"
+"Now, I like dragons and all, but don't you think y'all are taking this a little too seriously?"
+Don't ask.
+
+Online activity:
+
+Float32s each for:
+
+"Never sign off"
+"Online as much as possible"
+"Eight hours daily or more"
+"Two hours daily or more"
+"Connect to check mail or news" 
+"Only online sometimes during the week"
+"Barely make it on weekly"
+"Don't even connect monthly"
+"If I'm online, it's raining frogs"
+Variable
+"I never know when I'll be back"
+
+Humor index:
+
+Float32s each for:
+
+"Everything makes me laugh"
+"Very little won't make me laugh"
+"Laughing is good for you"
+"I appreciate humor, but know when to be serious"
+"There's a time and place for joking"
+"Laughing out loud is bad for my health"
+"I take it seriously unless it has a smiley by it"
+"I haven't laughed in ages"
+"I hate jokes"
+Variable
+Unknown
+
+Social Life:
+
+Float32s each for:
+
+"I constantly advertise that I'm not human"
+"My friends' parents and a few strangers know"
+"My friends and parents know"
+"My friends know, but not my parents"
+"A few friends know, I'm glad my parents don't"
+"I would only tell my closest friends"
+"I would be uncomfortable telling humans"
+"Only online friends know"
+"Nobody knows, they might tell the thought police"
+"No one knows, period.
+"If anyone finds out, I eat them."
+"One person knows, but they skipped town."
+"My closest friend knows."
+"A few of my closest friends know."
+"All my friends know; so do my parents."
+"All my friends knew, but didn't believe me, so I ate them."
+Variable
+Unknown/No social life
+
+Real Life Furriness:
+
+Float32s each for:
+"I'm not a human, I am a furry!"
+"I've been known to bark at people I don't know to greet them"
+"I've been known to bark at friends to greet them"
+"I make frequent jokes and show friends my furry art collection"
+"I make an occasional reference to my furriness"
+"I only tell close friends"
+"I tell nobody"
+
+Desired Real Life Furriness:
+
+Float32s each for:
+"I'm not a human, I am a furry!"
+"I've been known to bark at people I don't know to greet them"
+"I've been known to bark at friends to greet them"
+"I make frequent jokes and show friends my furry art collection"
+"I make an occasional reference to my furriness"
+"I only tell close friends"
+"I tell nobody"
+
+
+Ubiquity:
+
+Float32s each for:
+
+"I can't count the planets I've shaped the histories of"
+"Dozens/hundreds of pasts, I even remember you"
+"I wrote that book in another life"
+"I remember past names and am sometimes recognized"
+"This isn't my first time around"
+"I don't know what I did in past lives"
+"All I found was a 404 error during past-life regression"
+"I don't even want to know"
+"My past lives were terrible, I block them out"
+"Just when I think I've seen them all, another one pops up"
+"This is my first life"
+"I'm not telling"
+"My name is Bono"
+"What's a past life?"
+
+Irritability:
+
+Float32s each for:
+
+"You'll never find me in a good mood"
+"I'd eat my mother if she gave me the wrong look"
+"Come too close and you're a cinder"
+"I'm a little grumpy"
+"I will defend my honor"
+"You'll be fine if you don't call me names"
+"I take it all in stride"
+"You could stab me and I wouldn't get mad"
+"You can't make me angry, no matter how hard you try"
+Variable
+Unknown
+"But when I'm provoked, I hope you like barbeque."
+
+Magic Ability:
+
+Float32s each for:
+
+"I have reached the pinnacle of my profession"
+"I'm reasonably adept"
+"I know a number of spells"
+"I can perform a few cantrips"
+"I've never looked into it"
+"I make magicians worry"
+"Magic fails with me nearby"
+"Only a few spells seem to work"
+"Magic? What's that?"
+Variable
+Unknown
+"The hand is quicker than the eye!  (Pre-school)"
+"It just fizzles and dies.  (Kindergarten)"
+"I did it and the neighborhood's still intact!  (Elementary)"
+"Most of my spells work, but who knows when ... oops.  (Junior High)"
+"Passed my magic final!  (High School)"
+"Building my own laboratory!  (College-bound)"
+"Not quite there...  (Bachelor's)"
+"Archmage (hehehe!)  (Ph. D.)"
+"You can call me "Almighty One!"  (Says it all!  ];=8})"
+"I can use magic VERY well"
+"Knows a few things about magic"
+"Knows about as much magic as anyone else..."
+"I don't really know anything about magic"
+"I REALLY don't like magic and probably won't use it"
+
+Specialty in Bio
+
+Psychic Power:
+
+Float32s each for:
+
+"I can do anything if I try"
+"I can move mountains"
+"Did I use six psychic blasts or five?"
+"I can talk to spirits and move rocks"
+"I can't read myself yet"
+"Psychics have trouble with me around"
+"Only my outer thoughts are exposed"
+"Psionics don't seem to work"
+"I'm immune to and prevent psionics from happening"
+Variable
+Unknown
+"Is reading minds right now"
+"I can do a few tricks like moving things with my mind."
+"Is about as psychic as anyone else..."
+"Really doesn't know how to do anything psychic at all..."
+
+Specialty in Bio
+
+Technology:
+
+Float32s each for:
+
+"I write microcode in my spare time!"
+"I program in assembly"
+"I program in high-level languages"
+"I can program a VCR"
+"I don't know how to wire a plug"
+"If it has a bug, I'll find it"
+"I make electricity do strange things"
+"Only basic mechanisms can survive me"
+"All technology fails when under my control!"
+Variable
+Unknown
+
+Specialty in Bio
+
+Relationship with Computers:
+
+Float32s each for:
+"For this variable I vary widely."
+"I get paid to use computers."
+"I'd like to get paid to use computers."
+"I don't know what a computer is."
+"I refuse to use computers."
+"I'll be first in line to get a cybernetic interface installed in my skull"
+"Hey, if there was anything else to life, there'd be some internet traffic about it."
+"Computers are a large part of my life; I spend time every day in front of one; I've tried my hand at programming"
+"Computers are fun; I can use some software without resorting to the manual; I play a mean game of [insert favorite game (in bio)]"
+"Computers are just a tool; I use one when it serves my purpose"
+"Anything more complicated than my calculator and I'm screwed." 
+"I'm nervous of anything more complicated than my microwave"
+"Where's the on switch?"
+"Where's the 'on' switch? Better yet, where's the 'off' switch?"
+"They're taking over the world! Smash the machines! Up the technophobes!"
+"You mean there is life outside of Internet? You're kidding me! I haven't dragged myself off technology in weeks."
+"Computers are a large part of my existence. When I get up in the morning, the first thing I do is log myself in. I play games or mu* on weekends, but still manage to find enough time to respect my responsibilities."
+"Computers are fun and I enjoy using them. I play a mean game of DOOM! and can use a word processor without resorting to the manual too often. I know that a 3.5" disk is not a hard disk. I also know that when it says 'press any key to continue', I don't have to look for a key labeled 'ANY'."
+
+"If you even mention computers, I will rip your head off!"
+
+
+Desired Relationship with Computers:
+
+Float32s each for:
+"For this variable I vary widely."
+"I get paid to use computers."
+"I'd like to get paid to use computers."
+"I don't know what a computer is."
+"I refuse to use computers."
+"I'll be first in line to get a cybernetic interface installed in my skull"
+"Hey, if there was anything else to life, there'd be some internet traffic about it."
+"Computers are a large part of my life; I spend time every day in front of one; I've tried my hand at programming"
+"Computers are fun; I can use some software without resorting to the manual; I play a mean game of [insert favorite game (in bio)]"
+"Computers are just a tool; I use one when it serves my purpose"
+"Anything more complicated than my calculator and I'm screwed."
+"I'm nervous of anything more complicated than my microwave"
+"Where's the on switch?"
+"Where's the 'on' switch? Better yet, where's the 'off' switch?"
+"They're taking over the world! Smash the machines! Up the technophobes!"
+"You mean there is life outside of Internet? You're kidding me! I haven't dragged myself off technology in weeks."
+"Computers are a large part of my existence. When I get up in the morning, the first thing I do is log myself in. I play games or mu* on weekends, but still manage to find enough time to respect my responsibilities."
+"Computers are fun and I enjoy using them. I play a mean game of DOOM! and can use a word processor without resorting to the manual too often. I know that a 3.5" disk is not a hard disk. I also know that when it says 'press any key to continue', I don't have to look for a key labeled 'ANY'."
+
+"If you even mention computers, I will rip your head off!"
+
+
+Relationship with UNIX and its clones:
+
+Float32s each for:
+"For this variable I vary widely."
+"I get paid to use UNIX."
+"I'd like to get paid to use UNIX."
+"I don't know what UNIX is."
+"I refuse to use UNIX."
+"BSD (use this unless your BSDish system is mentioned below)"
+"FreeBSD"
+"OpenBSD"
+"NetBSD" 
+"Linux" 
+"Hurd"
+"Ultrix" 
+"AIX" 
+"SysV" 
+"HPUX" 
+"IRIX" 
+"OSF/1 (aka Digital Unix)" 
+"Sun OS/Solaris" 
+"SCO Unix" 
+"NeXT"
+"airyxOS"
+"OpenDarwin"
+"NeXTStep"
+"Rhapsody"
+"A/UX"
+"Some other one not listed" 
+
+"I am the sysadmin. If you try and crack my machine don't be surprised if the municipal works department gets an "accidental" computer-generated order to put start a new landfill on your front lawn or your quota is reduced to 4K."
+"I don't need to crack /etc/passwd because I just modified su so that it doesn't prompt me. The admin staff doesn't even know I'm here. If you don't understand what I just said, this category does NOT apply to you!"
+"I've got the entire admin ticked off at me because I am always using all of the CPU time and trying to run programs that I don't have access to. I'm going to try cracking /etc/passwd next week, just don't tell anyone." 
+"I not only have a Unix account, but I slam VMS any chance get."
+"I have a Unix account to do my stuff in"
+"I have a VMS account."
+"I've seen Unix and didn't like it. DEC rules!"
+"Unix geeks are actually nerds in disguise."
+
+Desired Relationship with UNIX and its clones:
+
+Float32s each for:
+"For this variable I vary widely."
+"I get paid to use UNIX."
+"I'd like to get paid to use UNIX."
+"I don't know what UNIX is."
+"I refuse to use UNIX."
+"BSD (use this unless your BSDish system is mentioned below)"
+"FreeBSD"
+"OpenBSD"
+"NetBSD" 
+"Linux" 
+"Hurd"
+"Ultrix" 
+"AIX" 
+"SysV" 
+"HPUX" 
+"IRIX" 
+"OSF/1 (aka Digital Unix)" 
+"Sun OS/Solaris" 
+"SCO Unix" 
+"NeXT"
+"airyxOS"
+"OpenDarwin"
+"NeXTStep"
+"Rhapsody"
+"A/UX"
+"Some other one not listed" 
+
+"I am the sysadmin. If you try and crack my machine don't be surprised if the municipal works department gets an "accidental" computer-generated order to put start a new landfill on your front lawn or your quota is reduced to 4K."
+"I don't need to crack /etc/passwd because I just modified su so that it doesn't prompt me. The admin staff doesn't even know I'm here. If you don't understand what I just said, this category does NOT apply to you!"
+"I've got the entire admin ticked off at me because I am always using all of the CPU time and trying to run programs that I don't have access to. I'm going to try cracking /etc/passwd next week, just don't tell anyone." 
+"I not only have a Unix account, but I slam VMS any chance get."
+"I have a Unix account to do my stuff in"
+"I have a VMS account."
+"I've seen Unix and didn't like it. DEC rules!"
+"Unix geeks are actually nerds in disguise."
+
+Relationship with Perl:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid to program Perl."
+"I'd like to get paid to program Perl."
+"I am Larry Wall, Tom Christiansen, or Randal Schwartz."
+"I don't write Perl, I speak it. Perl has superseded all other programming languages. I firmly believe that all programs can be reduced to a Perl one-liner. I use Perl to achieve U+++ status."
+"Perl is a very powerful programming tool. Not only do I no longer write shell scripts, I also no longer use awk or sed. I use Perl for all programs of less than a thousand lines."
+"Perl is a powerful programming tool. I don't write shell scripts anymore because I write them in Perl."
+"I know of Perl. I like Perl. I just haven't learned much Perl, but it is on my agenda."
+"I know Perl exists, but that's all."
+"What's Perl got that awk and sed don't have?"
+"Perl users are sick, twisted programmers who are just showing off."
+"Perl combines the power of sh, the clarity of sed, and the performance of awk with the simplicity of C. It should be banned."
+
+"What's Pearl?"
+
+"Our paranoid admin won't let us install Perl! Says it's a 'hacking tool'."
+
+Desired Relationship with Perl:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid to program Perl."
+"I'd like to get paid to program Perl."
+"I am Larry Wall, Tom Christiansen, or Randal Schwartz."
+"I don't write Perl, I speak it. Perl has superseded all other programming languages. I firmly believe that all programs can be reduced to a Perl one-liner. I use Perl to achieve U+++ status."
+"Perl is a very powerful programming tool. Not only do I no longer write shell scripts, I also no longer use awk or sed. I use Perl for all programs of less than a thousand lines."
+"Perl is a powerful programming tool. I don't write shell scripts anymore because I write them in Perl."
+"I know of Perl. I like Perl. I just haven't learned much Perl, but it is on my agenda."
+"I know Perl exists, but that's all."
+"What's Perl got that awk and sed don't have?"
+"Perl users are sick, twisted programmers who are just showing off."
+"Perl combines the power of sh, the clarity of sed, and the performance of awk with the simplicity of C. It should be banned."
+
+"What's Pearl?"
+
+"Our paranoid admin won't let us install Perl! Says it's a 'hacking tool'."
+
+
+Relationship with Linux:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid to work with Linux."
+"I'd like to get paid to work with Linux."
+"What's Linux?"
+"I am Linus, grovel before me."
+"I am a Linux wizard. I munch C code for breakfast and have enough room left over for a kernel debugging. I have so many patches installed that I lost track about ten versions ago. Linux newbies consider me a net.god."
+"I use Linux exclusively on my system. I monitor comp.os.linux.* and even answer questions sometimes."
+"I use Linux ALMOST exclusively on my system. I've given up trying to achieve Linux.God status, but welcome the OS as a replacement for DOS and/or macOS and/or Windows. I only boot to anything else to play games."
+"I've managed to get Linux installed and even used it a few times. It seems like it is just another OS."
+"I know what Linux is, but that's about all"
+"I have no desire to use Linux and frankly don't give a rats patootie about it. There are other, better, operating systems out there. Like Mac, DOS, or Amiga-OS. Or, better yet even, would be another free Unix OS like FreeBSD." 
+"Unix sucks. Because Linux = Unix. Linux Sucks. I worship Bill Gates."
+"I am Bill Gates."
+
+Desired Relationship with Linux:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid to work with Linux."
+"I'd like to get paid to work with Linux."
+"What's Linux?"
+"I am Linus, grovel before me."
+"I am a Linux wizard. I munch C code for breakfast and have enough room left over for a kernel debugging. I have so many patches installed that I lost track about ten versions ago. Linux newbies consider me a net.god."
+"I use Linux exclusively on my system. I monitor comp.os.linux.* and even answer questions sometimes."
+"I use Linux ALMOST exclusively on my system. I've given up trying to achieve Linux.God status, but welcome the OS as a replacement for DOS and/or macOS and/or Windows. I only boot to anything else to play games."
+"I've managed to get Linux installed and even used it a few times. It seems like it is just another OS."
+"I know what Linux is, but that's about all"
+"I have no desire to use Linux and frankly don't give a rats patootie about it. There are other, better, operating systems out there. Like Mac, DOS, or Amiga-OS. Or, better yet even, would be another free Unix OS like FreeBSD." 
+"Unix sucks. Because Linux = Unix. Linux Sucks. I worship Bill Gates."
+"I am Bill Gates."
+
+Relationship with Emacs:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid to use Emacs."
+"I'd like to get paid to use Emacs."
+"What's Emacs?"
+"I don't use Emacs."
+
+"Emacs is my login shell!! M-x doctor is my psychologist! I use emacs to control my TV and toaster oven! All you vi people don't know what you're missing! I read alt.religion.emacs, and comp.os.emacs, and I passionately love emacs."
+"I know and use elisp regularly!"
+"Emacs is great! I read my mail and news with it!"
+"Yeah, I know what emacs is, and use it as my regular editor."
+"Emacs is too big and bloated for my tastes"
+"Emacs is just a fancy word processor"
+"Emacs sucks! vi/vim forever!!!"
+"Emacs sucks! pico forever!!!"
+ 
+Desired Relationship with Emacs:
+
+Float32s each for:
+"I vary widely for this category."
+"I get paid to use Emacs."
+"I'd like to get paid to use Emacs."
+"What's Emacs?"
+"I don't use Emacs."
+
+"Emacs is my login shell!! M-x doctor is my psychologist! I use emacs to control my TV and toaster oven! All you vi people don't know what you're missing! I read alt.religion.emacs, and comp.os.emacs, and I passionately love emacs."
+"I know and use elisp regularly!"
+"Emacs is great! I read my mail and news with it!"
+"Yeah, I know what emacs is, and use it as my regular editor."
+"Emacs is too big and bloated for my tastes"
+"Emacs is just a fancy word processor"
+"Emacs sucks! vi/vim forever!!!"
+"Emacs sucks! pico forever!!!"
+ 
+
+Huggability:
+
+Float32s each for:
+
+"If it is living or dead, I'll hug it (to death)!"
+"I will hug anything that moves"
+"If it is living, I'll hug it freely."
+"I'm fairly free with my hugs, so try me!"
+"I'm selective, to a point, but give me a hug and I'll return it."
+"I don't mind hugs from any of my friends, but I draw the line there."
+"I'll accept hugs from my nearest and dearest, but no-one else."
+"Hugging me is something that only my mate is allowed to do!"
+"Don't you dare hug me! I mean it!"
+"Don't even touch me... in fact don't even think about touching me!"
+Variable
+Unknown
+"Expect a violent reaction to hugs."
+"I'll hug anyone I know, given a faint excuse (so long as they consent)."
+"I'll accept hugs, and maybe even give the occasional one"
+"Well, OK, you can hug me if you really want to"
+"Please don't, unless we know each other very well"
+"Likes hugs and gives and recieves them often"
+"Is okay with hugs and will accept them if presented..."
+"I would never hug anything even if I had the chance..."
+"I will blast anyone who comes near me even trying to hug me!"
+ 
+
+
+Desired Huggability:
+
+Float32s each for:
+
+"If it is living or dead, I'll hug it (to death)!"
+"If it is living, I'll hug it freely."
+"I'm fairly free with my hugs, so try me!"
+"I'm selective, to a point, but give me a hug and I'll return it."
+"I don't mind hugs from any of my friends, but I draw the line there."
+"I'll accept hugs from my nearest and dearest, but no-one else."
+"Hugging me is something that only my mate is allowed to do!"
+"Don't you dare hug me! I mean it!"
+"Don't even touch me... in fact don't even think about touching me!"
+Variable
+Unknown
+"Expect a violent reaction to hugs."
+"I'll hug anyone I know, given a faint excuse (so long as they consent)."
+"I'll accept hugs, and maybe even give the occasional one"
+"Well, OK, you can hug me if you really want to"
+"Please don't, unless we know each other very well"
+
+Dragon friendship:
+
+Float32s each for:
+
+"Starting to grow own scales from being around them so much"
+"Has overnight visits with dragons"
+"Visits dragons regularly"
+"Has dragon acquaintances"
+"Tolerance - We don't hurt each other"
+"I am usually their lunch"
+"I am constantly looked at as food"
+"I'm not even considered worthy of being eaten"
+"They're going to hunt me down..."
+Variable
+Unknown/No social life
+
+Body Shape:
+
+Float32s each for:
+
+"I AM Athe and my belly is now several galaxies wide ... while I'm only a few hundred feet long."
+"When my belly jiggles the orbits of planets shift out of its way."
+"Planets have been known to crack in half with my arrival. >:)"
+"My digestion of food has been known to cause earthquakes."
+"I move by rolling and flying has always been an effort for me."
+"What can I say ... I'm normal except for a few feasts here or there. >;)"
+"I'm slightly on the slim side ..."
+"Ever heard of serpentine?"
+"I've been known to slip into small places. >;)"
+"Whoah!  Whaddaya mean I look like a long string with wings?"
+"I'm made of really long superstrings, ie i'm one dimensional, all length and no width or depth.  Beware, I can even slip in between atoms >:)"
+
+Beard Level:
+Float64
+
+Body Hair Level:
+Float64
+
+Level of loving the Outdoors: 
+Float64
+
+Level of Interestingness:
+Float64
+
+Type of Geek:
+
+Float32s each for:
+
+"Geek of Business"
+"Geek of Classics"
+"Geek of Commercial Arts"
+"Geek of Computer Management"
+"Geek of Computer Science"
+"Geek of Communications"
+"Geek of Engineering"
+"Geek of Education"
+"Geek of Fine Arts"
+"Geek of Government"
+"Geek of Humanities"
+"Geek of Information Technology"
+"Geek of Jurisprudence (Law)"
+"Geek of Library Science"
+"Geek of Literature"
+"Geek of Mass Communications"
+"Geek of Math"
+"Geek of Medicine"
+"Geek of Music"
+"Geek of Performing Arts"
+"Geek of Philosophy"
+"Geek of Science"
+"Geek of Physics"
+"Geek of Chemistry"
+"Geek of Biology"
+"Geek of Social Science"
+"Geek of Psychology"
+"Geek of Sociology"
+"Geek of Technical Writing"
+
+"Geek of Other"
+"Geek of Undecided"
+No qualifications
+"Geek of All Trades"
+
+Dress:
+
+Float32 each for:
+
+"For this variable I vary wildly"
+"I get paid for my involvement in fashion"
+"I'd like to get paid for my involvement in fashion"
+"I tend to wear conservative dress such as a business suit or worse, a tie"
+"Good leisure-wear. Slacks, button-shirt, etc. No jeans, tennis shoes, or t-shirts."
+"I dress a lot like those found in catalog ads. Bland, boring, without life or meaning."
+"I'm usually in jeans and a t-shirt."
+"My t-shirts go a step further and have a trendy political message on them."
+"Punk dresser, including, but not limited to, torn jeans and shirts, body piercings, and prominent tattoos."
+
+"My clothing does not conform to gender norms society expects me to have."
+
+"I have no idea what I am wearing right now, let alone what I wore yesterday."
+
+"No clothing. Quite a fashion statement, don't you think?"
+
+"I wear the same clothes all the time, no matter the occasion, forgetting to do laundry between wearings."
+
+
