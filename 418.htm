@@ -5,12 +5,12 @@
         <!--
         @font-face {
   font-family: 'UnifontExMono';
-  src: url('http://stgiga.github.io/UnifontEX/UnifontExMono.eot'); /* IE9 Compat Modes */
-  src: url('http://stgiga.github.io/UnifontEX/UnifontExMono.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('https://stgiga.github.io/UnifontEX/UnifontExMono.woff') format('woff'), /* Pretty Modern Browsers */
-       url('https://stgiga.github.io/UnifontEX/UnifontExMono.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('http://stgiga.github.io/UnifontEX/UnifontExMono.woff2') format('woff2'), /* Super Modern Browsers */
-       url('http://stgiga.github.io/UnifontEX/UnifontExMono.svg#UnifontExMono') format('svg'); /* Legacy iOS */
+  src: url('http://UnifontEX.sourceforge.io/UnifontExMono.eot'); /* IE9 Compat Modes */
+  src: url('http://UnifontEX.sourceforge.io/UnifontExMono.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://UnifontEX.sourceforge.io/UnifontExMono.woff') format('woff'), /* Pretty Modern Browsers */
+       url('https://UnifontEX.sourceforge.io/UnifontExMono.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('http://UnifontEX.sourceforge.io/UnifontExMono.woff2') format('woff2'), /* Super Modern Browsers */
+       url('http://UnifontEX.sourceforge.io/UnifontExMono.svg#UnifontExMono') format('svg'); /* Legacy iOS */
 }
 
         html {
@@ -1434,6 +1434,10 @@ var allok = true;
     alert('Invalid input for Alcohol Percentage, this must be a number')
     return false;
   }
+    if(isNaN(htmlphpformgenerator1.Sugar_Percentage__14.value)){
+    alert('Invalid input for Sugar Percentage, this must be a number')
+    return false;
+  }
 document.htmlphpformgenerator1.Submit.disabled="disabled";
 return true;
 }
@@ -1460,13 +1464,15 @@ return true;
 <tr><td>Milk Type</td><td><input type="edit" name="Milk_Type__16" value="Creamer" size="9223372036854775807"></td></tr>
 <tr><td>Milk Percentage</td><td><input type="edit" name="Milk_Percentage__4" value="10" size="16"></td></tr>
 <tr><td>Sweetener Type</td><td><input type="edit" name="Sweetener_Type__5" value="Stevia" size="9223372036854775807"></td></tr>
-<tr><td>Sweetener Percentage</td><td><input type="edit" name="Sweetener_Percentage__6" value="10" size="16"></td></tr>
+<tr><td>Sweetener Percentage</td><td><input type="edit" name="Sweetener_Percentage__6" value="5" size="16"></td></tr>
 <tr><td>Syrup Type</td><td><input type="edit" name="Syrup_Type__7" value="Raspberry Vanilla Cherry Almond" size="9223372036854775807"></td></tr>
 <tr><td>Syrup Percentage</td><td><input type="edit" name="Syrup_Percentage__8" value="10" size="16"></td></tr>
 <tr><td>Spice Type</td><td><input type="edit" name="Spice_Type__9" value="Trinity" size="9223372036854775807"></td></tr>
 <tr><td>Spice Percentage</td><td><input type="edit" name="Spice_Percentage__10" value="10" size="16"></td></tr>
 <tr><td>Alcohol Type</td><td><input type="edit" name="Alcohol_Type__11" value="Butterbeer" size="9223372036854775807"></td></tr>
 <tr><td>Alcohol Percentage</td><td><input type="edit" name="Alcohol_Percentage__12" value="10" size="16"></td></tr>
+<tr><td>Sugar Type</td><td><input type="edit" name="Sugar_Type__13" value="Cane Sugar" size="9223372036854775807"></td></tr>
+<tr><td>Sugar Percentage</td><td><input type="edit" name="Sugar_Percentage__14" value="5" size="16"></td></tr>
 <tr><td align="center"><input type="reset" name="Reset" value="Reformulate"></td><td align="center"><input type="submit" name="Submit" value="Brew Drinks"></td></tr>
 <tr><td colspan=2 class=robotext><a href="http://www.phpform.info" class="robolink">HTML/PHP Form Generator</a> from ROBO Design Solutions</td></tr></table></form></b>
 <hr />
